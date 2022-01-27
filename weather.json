@@ -1,0 +1,10 @@
+{
+    "top_left": {
+        "latitude": 55.78,
+        "longitude": -135.0
+    },
+    "bottom_right": {
+        "latitude": 21.94,
+        "longitude": -67.5
+    }
+}

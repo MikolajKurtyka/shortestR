@@ -1,0 +1,12 @@
+version: "3.7"
+services:
+  jupyter:
+    build: ./
+    environment:
+      - PYTHONPATH=/project
+    volumes:
+      - ./:/project:delegated
+    command: "jupyter lab --ip=0.0.0.0 --port=8888 --allow-root --no-browser --NotebookApp.token='' --NotebookApp.password='' --NotebookApp.iopub_data_rate_limit=10000000000"
+    ports:
+      - "8888:8888"
+

@@ -1,0 +1,10 @@
+folium
+numpy
+matplotlib
+jupyterlab
+black
+blackcellmagic
+pandas
+networkx
+argparse
+gensim

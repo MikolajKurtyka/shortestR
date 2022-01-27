@@ -1,0 +1,4414 @@
+{
+  "KSFO": {
+    "latitude": 37.618805555555554,
+    "longitude": -122.37541666666667
+  },
+  "KSFO:RW01L": {
+    "latitude": 37.60952777777778,
+    "longitude": -122.38189722222222
+  },
+  "KSFO:RW10R": {
+    "latitude": 37.62629166666667,
+    "longitude": -122.39310555555556
+  },
+  "KSFO:RW10L": {
+    "latitude": 37.62873888888889,
+    "longitude": -122.39339166666667
+  },
+  "KSFO:RW19L": {
+    "latitude": 37.627341666666666,
+    "longitude": -122.3671111111111
+  },
+  "KSFO:RW28L": {
+    "latitude": 37.612097222222225,
+    "longitude": -122.35926388888889
+  },
+  "KSFO:RW28R": {
+    "latitude": 37.61391944444445,
+    "longitude": -122.35808333333333
+  },
+  "KSFO:RW19R": {
+    "latitude": 37.62648055555555,
+    "longitude": -122.37060833333332
+  },
+  "KSFO:RW01R": {
+    "latitude": 37.60769166666667,
+    "longitude": -122.38013888888888
+  },
+  "WESLA": {
+    "latitude": 37.66437222222222,
+    "longitude": -122.48041666666667
+  },
+  "PORTE": {
+    "latitude": 37.489786111111115,
+    "longitude": -122.47457777777778
+  },
+  "UTOOB": {
+    "latitude": 37.41159722222222,
+    "longitude": -122.33888333333333
+  },
+  "NTELL": {
+    "latitude": 36.89971944444444,
+    "longitude": -119.88950277777778
+  },
+  "MDBAY": {
+    "latitude": 37.684774999999995,
+    "longitude": -122.30360555555555
+  },
+  "HUSSH": {
+    "latitude": 37.7495,
+    "longitude": -122.33859166666666
+  },
+  "NIITE": {
+    "latitude": 37.845241666666666,
+    "longitude": -122.38686944444446
+  },
+  "REBAS": {
+    "latitude": 37.94068333333333,
+    "longitude": -122.38366666666667
+  },
+  "DEDHD": {
+    "latitude": 38.33551666666667,
+    "longitude": -122.11280833333333
+  },
+  "SSTIK": {
+    "latitude": 37.678444444444445,
+    "longitude": -122.36165833333332
+  },
+  "KTINA": {
+    "latitude": 36.38433333333333,
+    "longitude": -121.16350555555556
+  },
+  "CISKO": {
+    "latitude": 35.69755555555555,
+    "longitude": -120.46517777777778
+  },
+  "TYDYE": {
+    "latitude": 37.68931944444444,
+    "longitude": -122.26894444444444
+  },
+  "TRUKN": {
+    "latitude": 37.717558333333336,
+    "longitude": -122.2145888888889
+  },
+  "COSMC": {
+    "latitude": 37.826061111111116,
+    "longitude": -122.0049
+  },
+  "SYRAH": {
+    "latitude": 37.99105,
+    "longitude": -121.10308888888888
+  },
+  "TIPRE": {
+    "latitude": 38.20583333333334,
+    "longitude": -121.03583333333333
+  },
+  "ORYAN": {
+    "latitude": 37.60492222222222,
+    "longitude": -122.33661111111111
+  },
+  "SAHEY": {
+    "latitude": 37.568450000000006,
+    "longitude": -122.24455555555555
+  },
+  "MAAYS": {
+    "latitude": 37.48379722222222,
+    "longitude": -122.14782500000001
+  },
+  "MCOVY": {
+    "latitude": 37.35550277777778,
+    "longitude": -122.01359444444445
+  },
+  "KAYEX": {
+    "latitude": 36.48748611111111,
+    "longitude": -120.94785833333334
+  },
+  "LOSHN": {
+    "latitude": 35.84760833333333,
+    "longitude": -120.000475
+  },
+  "SUSEY": {
+    "latitude": 36.43246388888889,
+    "longitude": -121.06333055555555
+  },
+  "EBAYE": {
+    "latitude": 35.868719444444444,
+    "longitude": -120.26058333333333
+  },
+  "KYNNG": {
+    "latitude": 37.6826,
+    "longitude": -122.52374999999999
+  },
+  "KRLOS": {
+    "latitude": 37.80448888888888,
+    "longitude": -122.52844999999999
+  },
+  "SNTNA": {
+    "latitude": 37.83786111111112,
+    "longitude": -122.4342388888889
+  },
+  "GNNRR": {
+    "latitude": 37.67494444444444,
+    "longitude": -122.50338333333333
+  },
+  "STINS": {
+    "latitude": 37.82367777777778,
+    "longitude": -122.75683333333333
+  },
+  "AMAKR": {
+    "latitude": 39.0,
+    "longitude": -123.75
+  },
+  "ALANN": {
+    "latitude": 35.59666666666667,
+    "longitude": -125.94
+  },
+  "CIITY": {
+    "latitude": 37.533116666666665,
+    "longitude": -122.14951111111112
+  },
+  "BCEEE": {
+    "latitude": 37.74965,
+    "longitude": -121.89939444444445
+  },
+  "FFOIL": {
+    "latitude": 37.00620277777778,
+    "longitude": -122.56438888888889
+  },
+  "LIBBO": {
+    "latitude": 36.0,
+    "longitude": -121.83333333333333
+  },
+  "YYUNG": {
+    "latitude": 35.516083333333334,
+    "longitude": -121.0686861111111
+  },
+  "GRTFL": {
+    "latitude": 38.35216944444445,
+    "longitude": -122.23146944444444
+  },
+  "BAART": {
+    "latitude": 36.46194444444445,
+    "longitude": -126.93333333333334
+  },
+  "ALCOA": {
+    "latitude": 37.83325277777778,
+    "longitude": -125.834525
+  },
+  "ORRCA": {
+    "latitude": 38.44365833333333,
+    "longitude": -121.55162222222222
+  },
+  "SIPLY": {
+    "latitude": 37.58533333333334,
+    "longitude": -122.2335
+  },
+  "MOLEN": {
+    "latitude": 37.99787222222222,
+    "longitude": -123.08679722222222
+  },
+  "ENI": {
+    "latitude": 39.053216666666664,
+    "longitude": -123.27432777777777
+  },
+  "MOGEE": {
+    "latitude": 38.336111111111116,
+    "longitude": -121.38972222222223
+  },
+  "LLVII": {
+    "latitude": 37.700430555555556,
+    "longitude": -121.77916388888889
+  },
+  "HOPII": {
+    "latitude": 37.43407222222222,
+    "longitude": -121.83507777777777
+  },
+  "TAMMM": {
+    "latitude": 37.988175,
+    "longitude": -122.14791111111111
+  },
+  "ALLBE": {
+    "latitude": 37.506388888888885,
+    "longitude": -127.0
+  },
+  "HYPEE": {
+    "latitude": 37.88024444444444,
+    "longitude": -122.06748333333333
+  },
+  "NORMM": {
+    "latitude": 37.72020833333333,
+    "longitude": -122.61317222222222
+  },
+  "SFO": {
+    "latitude": 37.61948611111111,
+    "longitude": -122.37394444444443
+  },
+  "BEBOP": {
+    "latitude": 36.999944444444445,
+    "longitude": -125.00116111111112
+  },
+  "CINNY": {
+    "latitude": 36.181666666666665,
+    "longitude": -124.76
+  },
+  "MACUS": {
+    "latitude": 39.88333333333333,
+    "longitude": -118.8
+  },
+  "JSICA": {
+    "latitude": 38.520516666666666,
+    "longitude": -117.28681666666667
+  },
+  "WAGES": {
+    "latitude": 36.991033333333334,
+    "longitude": -121.73706111111112
+  },
+  "CEPAS": {
+    "latitude": 38.130833333333335,
+    "longitude": -127.0
+  },
+  "REDWD": {
+    "latitude": 40.0,
+    "longitude": -126.5
+  },
+  "LIN": {
+    "latitude": 38.074580555555556,
+    "longitude": -121.00385833333333
+  },
+  "SENZY": {
+    "latitude": 37.6665,
+    "longitude": -122.48516666666667
+  },
+  "SEGUL": {
+    "latitude": 36.963036111111116,
+    "longitude": -122.57213055555555
+  },
+  "CYPRS": {
+    "latitude": 36.42233611111111,
+    "longitude": -122.43218055555556
+  },
+  "MCKEY": {
+    "latitude": 35.48309444444445,
+    "longitude": -121.08313888888888
+  },
+  "KNZIE": {
+    "latitude": 41.55,
+    "longitude": -121.96666666666667
+  },
+  "RBL": {
+    "latitude": 40.099111111111114,
+    "longitude": -122.23635
+  },
+  "MACHU": {
+    "latitude": 41.524924999999996,
+    "longitude": -122.57534166666666
+  },
+  "BETBE": {
+    "latitude": 39.892205555555556,
+    "longitude": -119.09733333333332
+  },
+  "MAFIC": {
+    "latitude": 35.74093888888889,
+    "longitude": -125.05894444444444
+  },
+  "SNS": {
+    "latitude": 36.66383611111111,
+    "longitude": -121.6031861111111
+  },
+  "SIE": {
+    "latitude": 39.095508333333335,
+    "longitude": -74.80034444444445
+  },
+  "PARCH": {
+    "latitude": 41.09922777777778,
+    "longitude": -72.12073888888888
+  },
+  "CAMRN": {
+    "latitude": 40.01730277777778,
+    "longitude": -73.86105833333333
+  },
+  "PLYMM": {
+    "latitude": 42.04374722222222,
+    "longitude": -70.42691388888889
+  },
+  "COATE": {
+    "latitude": 41.136227777777776,
+    "longitude": -74.69516666666667
+  },
+  "BREZY": {
+    "latitude": 41.158252777777776,
+    "longitude": -74.13490555555556
+  },
+  "HOGGS": {
+    "latitude": 39.58284722222223,
+    "longitude": -74.27074999999999
+  },
+  "LENDY": {
+    "latitude": 40.91483611111111,
+    "longitude": -74.13525833333334
+  },
+  "SEFRD": {
+    "latitude": 40.845555555555556,
+    "longitude": -72.00197777777778
+  },
+  "CCC": {
+    "latitude": 40.92961944444444,
+    "longitude": -72.79885833333333
+  },
+  "TRAIT": {
+    "latitude": 41.28465277777778,
+    "longitude": -71.91759722222223
+  },
+  "ENE": {
+    "latitude": 43.42567222222222,
+    "longitude": -70.613525
+  },
+  "JFK": {
+    "latitude": 40.63288888888889,
+    "longitude": -73.7713888888889
+  },
+  "KN60C": {
+    "latitude": 40.0,
+    "longitude": -72.0
+  },
+  "LGA": {
+    "latitude": 40.78371666666666,
+    "longitude": -73.86859999999999
+  },
+  "GAMBY": {
+    "latitude": 40.00617222222222,
+    "longitude": -73.86896388888889
+  },
+  "KARRS": {
+    "latitude": 39.840872222222224,
+    "longitude": -73.98598888888888
+  },
+  "SEY": {
+    "latitude": 41.16743611111111,
+    "longitude": -71.57608611111111
+  },
+  "TOPRR": {
+    "latitude": 39.84698055555556,
+    "longitude": -73.53672222222222
+  },
+  "TEB": {
+    "latitude": 40.84871944444445,
+    "longitude": -74.06241666666666
+  },
+  "PANZE": {
+    "latitude": 39.67599444444444,
+    "longitude": -74.16818055555557
+  },
+  "HARTY": {
+    "latitude": 41.07118888888889,
+    "longitude": -75.08989444444444
+  },
+  "DPK": {
+    "latitude": 40.79175,
+    "longitude": -73.30365833333333
+  },
+  "RAGER": {
+    "latitude": 41.568311111111115,
+    "longitude": -74.91282222222223
+  },
+  "GON": {
+    "latitude": 41.33040277777778,
+    "longitude": -72.05198333333333
+  },
+  "ROBER": {
+    "latitude": 40.68546388888888,
+    "longitude": -73.03261111111111
+  },
+  "JENNO": {
+    "latitude": 41.152924999999996,
+    "longitude": -75.33158333333333
+  },
+  "RITTY": {
+    "latitude": 41.26126388888889,
+    "longitude": -75.47454166666667
+  },
+  "LVZ": {
+    "latitude": 41.27280555555556,
+    "longitude": -75.6896388888889
+  },
+  "BOTON": {
+    "latitude": 39.41447222222222,
+    "longitude": -74.45494444444445
+  },
+  "STW": {
+    "latitude": 40.99581944444444,
+    "longitude": -74.86903055555555
+  },
+  "ZUCRY": {
+    "latitude": 40.86936111111111,
+    "longitude": -75.23643611111112
+  },
+  "DOORE": {
+    "latitude": 41.02817777777778,
+    "longitude": -74.36770277777777
+  },
+  "MUGZY": {
+    "latitude": 41.03012777777778,
+    "longitude": -74.96936111111111
+  },
+  "KJFK": {
+    "latitude": 40.639925,
+    "longitude": -73.77869444444444
+  },
+  "IGN": {
+    "latitude": 41.66545,
+    "longitude": -73.82225
+  },
+  "DENNA": {
+    "latitude": 41.233272222222226,
+    "longitude": -73.19386944444445
+  },
+  "BELTT": {
+    "latitude": 41.06350277777778,
+    "longitude": -72.98708888888889
+  },
+  "NESSI": {
+    "latitude": 41.10044444444445,
+    "longitude": -73.03924444444445
+  },
+  "LOVES": {
+    "latitude": 41.53878888888889,
+    "longitude": -73.48809444444444
+  },
+  "FZOOL": {
+    "latitude": 41.32641944444445,
+    "longitude": -73.28321666666666
+  },
+  "BDR": {
+    "latitude": 41.160694444444445,
+    "longitude": -73.12449722222222
+  },
+  "RKA": {
+    "latitude": 42.46636388888889,
+    "longitude": -75.23930833333334
+  },
+  "LOLLY": {
+    "latitude": 41.38550277777778,
+    "longitude": -74.06348333333334
+  },
+  "DNY": {
+    "latitude": 42.17828055555555,
+    "longitude": -74.95694166666667
+  },
+  "ALB": {
+    "latitude": 42.747280555555555,
+    "longitude": -73.8031861111111
+  },
+  "HFD": {
+    "latitude": 41.641105555555555,
+    "longitude": -72.54741944444444
+  },
+  "WEETS": {
+    "latitude": 41.85749444444445,
+    "longitude": -74.19764166666667
+  },
+  "PRNCE": {
+    "latitude": 41.97354166666667,
+    "longitude": -74.47006944444445
+  },
+  "FILPS": {
+    "latitude": 41.94186666666666,
+    "longitude": -74.39523055555556
+  },
+  "BRISS": {
+    "latitude": 41.702600000000004,
+    "longitude": -73.01670833333333
+  },
+  "TRESA": {
+    "latitude": 41.88044722222222,
+    "longitude": -73.81855555555555
+  },
+  "JUDDS": {
+    "latitude": 41.63467222222222,
+    "longitude": -73.10824444444444
+  },
+  "YODAA": {
+    "latitude": 41.72255277777778,
+    "longitude": -74.03132222222222
+  },
+  "RODYY": {
+    "latitude": 41.873847222222224,
+    "longitude": -74.59705277777778
+  },
+  "SWL": {
+    "latitude": 38.05659444444444,
+    "longitude": -75.464
+  },
+  "ITH": {
+    "latitude": 42.49502777777778,
+    "longitude": -76.45977777777777
+  },
+  "CLOWW": {
+    "latitude": 42.73152777777778,
+    "longitude": -71.85458333333332
+  },
+  "ASPEN": {
+    "latitude": 42.81598611111111,
+    "longitude": -70.91149722222222
+  },
+  "ATHOS": {
+    "latitude": 42.247080555555556,
+    "longitude": -73.8121
+  },
+  "MHT": {
+    "latitude": 42.86853055555556,
+    "longitude": -71.36953333333332
+  },
+  "MEMMS": {
+    "latitude": 42.51658611111111,
+    "longitude": -76.30428611111111
+  },
+  "EXTOL": {
+    "latitude": 42.657691666666665,
+    "longitude": -76.6183611111111
+  },
+  "HNK": {
+    "latitude": 42.06308333333333,
+    "longitude": -75.31628333333333
+  },
+  "NEETS": {
+    "latitude": 43.51409722222222,
+    "longitude": -71.1556
+  },
+  "RADDS": {
+    "latitude": 38.648555555555554,
+    "longitude": -75.08846666666666
+  },
+  "KODEY": {
+    "latitude": 42.279869444444444,
+    "longitude": -75.78444444444445
+  },
+  "POPPP": {
+    "latitude": 42.82313055555556,
+    "longitude": -71.91978333333334
+  },
+  "ZIZZI": {
+    "latitude": 38.94068333333333,
+    "longitude": -74.52896388888888
+  },
+  "WOONS": {
+    "latitude": 41.95075,
+    "longitude": -71.50703888888889
+  },
+  "TOYOS": {
+    "latitude": 40.783427777777774,
+    "longitude": -77.96270833333334
+  },
+  "STENT": {
+    "latitude": 41.679047222222216,
+    "longitude": -77.15275555555556
+  },
+  "MONTK": {
+    "latitude": 40.814775,
+    "longitude": -71.01264166666667
+  },
+  "BOS": {
+    "latitude": 42.35745,
+    "longitude": -70.98954722222223
+  },
+  "GAILS": {
+    "latitude": 41.869030555555554,
+    "longitude": -70.40213611111112
+  },
+  "OCPUC": {
+    "latitude": 40.83175277777778,
+    "longitude": -77.3947
+  },
+  "HANKK": {
+    "latitude": 42.89495,
+    "longitude": -77.15422500000001
+  },
+  "ISLES": {
+    "latitude": 39.426899999999996,
+    "longitude": -71.31349999999999
+  },
+  "EEN": {
+    "latitude": 42.79427777777778,
+    "longitude": -72.29177777777778
+  },
+  "CON": {
+    "latitude": 43.21978611111111,
+    "longitude": -71.57545277777777
+  },
+  "KW45A": {
+    "latitude": 37.5,
+    "longitude": -74.0
+  },
+  "GGT": {
+    "latitude": 42.78895555555555,
+    "longitude": -75.82674722222222
+  },
+  "DUNFE": {
+    "latitude": 37.88856388888889,
+    "longitude": -75.59149722222222
+  },
+  "KELIE": {
+    "latitude": 42.66036666666667,
+    "longitude": -77.7448611111111
+  },
+  "HIKOD": {
+    "latitude": 43.558875,
+    "longitude": -70.981525
+  },
+  "WHATE": {
+    "latitude": 42.43619444444444,
+    "longitude": -72.76165555555555
+  },
+  "DEEPO": {
+    "latitude": 41.11498888888889,
+    "longitude": -70.83606944444443
+  },
+  "REVER": {
+    "latitude": 42.44096666666666,
+    "longitude": -70.96147500000001
+  },
+  "ARKKK": {
+    "latitude": 42.06347777777778,
+    "longitude": -75.31678055555555
+  },
+  "KALDA": {
+    "latitude": 37.842083333333335,
+    "longitude": -75.62648333333333
+  },
+  "GRAYM": {
+    "latitude": 42.10118611111111,
+    "longitude": -72.031525
+  },
+  "AGUNE": {
+    "latitude": 38.10805555555556,
+    "longitude": -72.83388888888888
+  },
+  "NEWBE": {
+    "latitude": 41.206775,
+    "longitude": -71.07414444444444
+  },
+  "CUVIP": {
+    "latitude": 41.24517222222222,
+    "longitude": -76.93494166666667
+  },
+  "JAMIE": {
+    "latitude": 37.605716666666666,
+    "longitude": -75.96355833333334
+  },
+  "BEEPS": {
+    "latitude": 42.820350000000005,
+    "longitude": -76.98467777777778
+  },
+  "STINK": {
+    "latitude": 37.82790000000001,
+    "longitude": -72.288
+  },
+  "MAGIO": {
+    "latitude": 41.52738333333333,
+    "longitude": -76.59649444444445
+  },
+  "SAWED": {
+    "latitude": 37.53353611111111,
+    "longitude": -75.85808333333333
+  },
+  "KN48C": {
+    "latitude": 38.0,
+    "longitude": -72.0
+  },
+  "BEHHR": {
+    "latitude": 38.5543,
+    "longitude": -71.53059999999999
+  },
+  "TRISH": {
+    "latitude": 39.50345277777778,
+    "longitude": -76.3738861111111
+  },
+  "PVD": {
+    "latitude": 41.72434166666667,
+    "longitude": -71.42964166666667
+  },
+  "KJFK:RW04L": {
+    "latitude": 40.623105555555554,
+    "longitude": -73.78486111111111
+  },
+  "KJFK:RW04R": {
+    "latitude": 40.625425,
+    "longitude": -73.77034722222223
+  },
+  "KJFK:RW13L": {
+    "latitude": 40.65649444444444,
+    "longitude": -73.7874361111111
+  },
+  "KJFK:RW13R": {
+    "latitude": 40.645494444444445,
+    "longitude": -73.81038611111111
+  },
+  "CRAIL": {
+    "latitude": 40.68716666666666,
+    "longitude": -73.34341111111111
+  },
+  "CAPIT": {
+    "latitude": 40.760552777777775,
+    "longitude": -73.63040555555555
+  },
+  "KJFK:RW22L": {
+    "latitude": 40.64523611111111,
+    "longitude": -73.75486388888889
+  },
+  "KJFK:RW22R": {
+    "latitude": 40.64243333333333,
+    "longitude": -73.76963611111111
+  },
+  "KJFK:RW31L": {
+    "latitude": 40.632577777777776,
+    "longitude": -73.78188333333333
+  },
+  "KJFK:RW31R": {
+    "latitude": 40.64516944444444,
+    "longitude": -73.76245833333333
+  },
+  "PWL": {
+    "latitude": 41.76977222222222,
+    "longitude": -73.60055277777778
+  },
+  "PETER": {
+    "latitude": 42.20525833333333,
+    "longitude": -74.530625
+  },
+  "FIPAT": {
+    "latitude": 36.33969722222223,
+    "longitude": -119.41907222222223
+  },
+  "KO66E": {
+    "latitude": 41.0,
+    "longitude": -122.0
+  },
+  "SLOWN": {
+    "latitude": 40.56666666666667,
+    "longitude": -116.4
+  },
+  "KL15M": {
+    "latitude": 32.5,
+    "longitude": -114.0
+  },
+  "INSLO": {
+    "latitude": 38.679138888888886,
+    "longitude": -117.29811111111111
+  },
+  "JOYXE": {
+    "latitude": 44.241425,
+    "longitude": -120.78608333333334
+  },
+  "PUBLE": {
+    "latitude": 34.654919444444445,
+    "longitude": -117.15904166666667
+  },
+  "TUMBE": {
+    "latitude": 36.80555555555555,
+    "longitude": -116.6675
+  },
+  "KS78G": {
+    "latitude": 43.0,
+    "longitude": -120.0
+  },
+  "PARZZ": {
+    "latitude": 41.60406666666667,
+    "longitude": -115.036025
+  },
+  "BURNZ": {
+    "latitude": 34.581744444444446,
+    "longitude": -119.17912777777778
+  },
+  "EYIGO": {
+    "latitude": 42.06325833333333,
+    "longitude": -120.39965555555557
+  },
+  "PKE": {
+    "latitude": 34.10197222222222,
+    "longitude": -114.68206666666667
+  },
+  "ZORUN": {
+    "latitude": 39.983333333333334,
+    "longitude": -118.91666666666667
+  },
+  "ROBUD": {
+    "latitude": 40.64376111111111,
+    "longitude": -118.70788611111111
+  },
+  "ODSTO": {
+    "latitude": 42.49871388888889,
+    "longitude": -122.98553333333334
+  },
+  "JAJAY": {
+    "latitude": 40.73423888888889,
+    "longitude": -116.82577777777777
+  },
+  "SCOLE": {
+    "latitude": 33.462722222222226,
+    "longitude": -114.08177777777777
+  },
+  "JEHFY": {
+    "latitude": 39.96740277777778,
+    "longitude": -122.36982222222221
+  },
+  "KL15I": {
+    "latitude": 32.5,
+    "longitude": -118.0
+  },
+  "MVA": {
+    "latitude": 38.5655,
+    "longitude": -118.03285277777778
+  },
+  "OHDEE": {
+    "latitude": 38.85771388888889,
+    "longitude": -120.76634722222222
+  },
+  "JENID": {
+    "latitude": 36.358333333333334,
+    "longitude": -116.85083333333333
+  },
+  "TRAKY": {
+    "latitude": 41.360055555555554,
+    "longitude": -114.74208333333334
+  },
+  "MCORD": {
+    "latitude": 40.2,
+    "longitude": -118.01666666666667
+  },
+  "GARDD": {
+    "latitude": 37.05358611111111,
+    "longitude": -112.63177222222221
+  },
+  "BULGY": {
+    "latitude": 34.667825,
+    "longitude": -116.62194444444444
+  },
+  "FMG": {
+    "latitude": 39.531277777777774,
+    "longitude": -119.656075
+  },
+  "RATLR": {
+    "latitude": 42.91712777777778,
+    "longitude": -115.66011666666667
+  },
+  "HORRN": {
+    "latitude": 44.480916666666666,
+    "longitude": -121.642425
+  },
+  "CABAB": {
+    "latitude": 37.276666666666664,
+    "longitude": -118.72
+  },
+  "KLIFF": {
+    "latitude": 36.65206666666666,
+    "longitude": -111.65041666666667
+  },
+  "LUCER": {
+    "latitude": 34.48546944444445,
+    "longitude": -116.84514166666666
+  },
+  "KU69M": {
+    "latitude": 41.5,
+    "longitude": -114.0
+  },
+  "ZIDAX": {
+    "latitude": 42.24698888888889,
+    "longitude": -122.54273888888889
+  },
+  "HIXOD": {
+    "latitude": 43.87207222222222,
+    "longitude": -123.20073333333333
+  },
+  "CUNDY": {
+    "latitude": 36.060094444444445,
+    "longitude": -112.99241111111111
+  },
+  "FASTE": {
+    "latitude": 40.7,
+    "longitude": -114.5
+  },
+  "SAC": {
+    "latitude": 38.44373888888889,
+    "longitude": -121.55165277777778
+  },
+  "BIGBR": {
+    "latitude": 34.03714444444444,
+    "longitude": -117.73553611111112
+  },
+  "MYCAL": {
+    "latitude": 36.46018055555556,
+    "longitude": -116.26426111111111
+  },
+  "COOOP": {
+    "latitude": 34.77675555555555,
+    "longitude": -114.97735
+  },
+  "HESUS": {
+    "latitude": 39.5318,
+    "longitude": -121.65912222222222
+  },
+  "LAS": {
+    "latitude": 36.07970277777778,
+    "longitude": -115.15979722222222
+  },
+  "OPTEC": {
+    "latitude": 41.128886111111115,
+    "longitude": -116.93422222222223
+  },
+  "OYODU": {
+    "latitude": 38.141219444444445,
+    "longitude": -120.64399722222223
+  },
+  "WURUK": {
+    "latitude": 44.41209166666667,
+    "longitude": -120.92114444444445
+  },
+  "PSP": {
+    "latitude": 33.87013888888889,
+    "longitude": -116.42978333333333
+  },
+  "AECIA": {
+    "latitude": 33.50163611111111,
+    "longitude": -117.14467777777779
+  },
+  "KECEP": {
+    "latitude": 40.38047777777778,
+    "longitude": -120.57511388888888
+  },
+  "ROOTH": {
+    "latitude": 36.98997777777778,
+    "longitude": -120.41094444444445
+  },
+  "AKUKY": {
+    "latitude": 44.32666666666667,
+    "longitude": -119.47770277777778
+  },
+  "BRAWL": {
+    "latitude": 32.90416111111111,
+    "longitude": -115.54104722222222
+  },
+  "BAM": {
+    "latitude": 40.56908055555556,
+    "longitude": -116.92225555555557
+  },
+  "POLIC": {
+    "latitude": 39.81848611111111,
+    "longitude": -120.33385555555554
+  },
+  "VNY": {
+    "latitude": 34.22345833333333,
+    "longitude": -118.49175
+  },
+  "FOLRI": {
+    "latitude": 36.337205555555556,
+    "longitude": -119.96301111111111
+  },
+  "REO": {
+    "latitude": 42.59055,
+    "longitude": -117.86815277777777
+  },
+  "YUTOO": {
+    "latitude": 34.64346111111111,
+    "longitude": -119.2690638888889
+  },
+  "LAX": {
+    "latitude": 33.93315,
+    "longitude": -118.43201111111111
+  },
+  "MAACE": {
+    "latitude": 42.36392777777778,
+    "longitude": -118.57100555555556
+  },
+  "GALLI": {
+    "latitude": 40.31953888888889,
+    "longitude": -118.12162222222221
+  },
+  "COTES": {
+    "latitude": 35.457144444444445,
+    "longitude": -114.04617222222222
+  },
+  "NILIY": {
+    "latitude": 41.578272222222225,
+    "longitude": -120.43268333333334
+  },
+  "SPRUZ": {
+    "latitude": 40.678666666666665,
+    "longitude": -114.92036666666667
+  },
+  "BIVTE": {
+    "latitude": 32.88468888888889,
+    "longitude": -117.06354999999999
+  },
+  "NICKT": {
+    "latitude": 34.14897222222222,
+    "longitude": -114.08245277777777
+  },
+  "VIKSN": {
+    "latitude": 37.35078611111111,
+    "longitude": -117.89339166666667
+  },
+  "DIMGE": {
+    "latitude": 41.61298611111111,
+    "longitude": -122.47708333333334
+  },
+  "SIERA": {
+    "latitude": 32.445138888888884,
+    "longitude": -117.5051388888889
+  },
+  "KU72M": {
+    "latitude": 42.0,
+    "longitude": -114.0
+  },
+  "BEIRA": {
+    "latitude": 40.51070555555555,
+    "longitude": -122.40756666666667
+  },
+  "ESSAA": {
+    "latitude": 37.068250000000006,
+    "longitude": -116.93310000000001
+  },
+  "AKIYA": {
+    "latitude": 43.96485277777778,
+    "longitude": -116.98343333333334
+  },
+  "TRUCK": {
+    "latitude": 39.437686111111105,
+    "longitude": -120.1618
+  },
+  "UWZAB": {
+    "latitude": 44.01458888888889,
+    "longitude": -123.0185361111111
+  },
+  "DEFKI": {
+    "latitude": 43.63413611111111,
+    "longitude": -116.62448611111111
+  },
+  "KU66K": {
+    "latitude": 41.0,
+    "longitude": -116.0
+  },
+  "EEVUN": {
+    "latitude": 37.048027777777776,
+    "longitude": -113.71182222222222
+  },
+  "WAGJI": {
+    "latitude": 34.56426388888889,
+    "longitude": -114.96699166666667
+  },
+  "DOCAS": {
+    "latitude": 43.883472222222224,
+    "longitude": -121.45023055555556
+  },
+  "PRNCS": {
+    "latitude": 42.443236111111105,
+    "longitude": -117.81460277777778
+  },
+  "JANAD": {
+    "latitude": 33.98361111111111,
+    "longitude": -115.60138888888888
+  },
+  "NOOTN": {
+    "latitude": 36.625730555555556,
+    "longitude": -113.34451388888888
+  },
+  "PARKA": {
+    "latitude": 41.85036111111111,
+    "longitude": -113.47083333333333
+  },
+  "KS78E": {
+    "latitude": 43.0,
+    "longitude": -122.0
+  },
+  "LUUIS": {
+    "latitude": 41.53909722222222,
+    "longitude": -116.21169722222223
+  },
+  "TESSA": {
+    "latitude": 43.627338888888886,
+    "longitude": -116.14655555555557
+  },
+  "WIGGS": {
+    "latitude": 32.471183333333336,
+    "longitude": -114.55301944444444
+  },
+  "LCU": {
+    "latitude": 41.36295277777778,
+    "longitude": -113.84061944444444
+  },
+  "DRRLA": {
+    "latitude": 36.94853611111111,
+    "longitude": -115.64409166666667
+  },
+  "DRSIE": {
+    "latitude": 41.05866666666667,
+    "longitude": -115.81897777777777
+  },
+  "OYONU": {
+    "latitude": 33.50588333333334,
+    "longitude": -116.31109444444444
+  },
+  "KENNO": {
+    "latitude": 37.29815833333333,
+    "longitude": -117.310225
+  },
+  "PINNI": {
+    "latitude": 36.797824999999996,
+    "longitude": -119.272025
+  },
+  "SIDTO": {
+    "latitude": 41.5162,
+    "longitude": -120.59309166666667
+  },
+  "SALUD": {
+    "latitude": 32.87887777777778,
+    "longitude": -114.72325555555555
+  },
+  "KU66M": {
+    "latitude": 41.0,
+    "longitude": -114.0
+  },
+  "KS84E": {
+    "latitude": 44.0,
+    "longitude": -122.0
+  },
+  "TCH": {
+    "latitude": 40.850258333333336,
+    "longitude": -111.98190555555556
+  },
+  "BOJOL": {
+    "latitude": 42.28655555555555,
+    "longitude": -108.19218333333333
+  },
+  "IDOME": {
+    "latitude": 44.81311944444444,
+    "longitude": -112.89462222222222
+  },
+  "KU63Q": {
+    "latitude": 40.5,
+    "longitude": -110.0
+  },
+  "BIL": {
+    "latitude": 45.80855833333333,
+    "longitude": -108.62464722222222
+  },
+  "AUTIM": {
+    "latitude": 40.75489722222222,
+    "longitude": -105.51153611111111
+  },
+  "LIMBY": {
+    "latitude": 46.333730555555555,
+    "longitude": -116.71343055555556
+  },
+  "KD54U": {
+    "latitude": 39.0,
+    "longitude": -106.0
+  },
+  "SOLJR": {
+    "latitude": 47.61601111111111,
+    "longitude": -117.67605555555556
+  },
+  "MIDFO": {
+    "latitude": 44.732936111111115,
+    "longitude": -115.00545555555556
+  },
+  "MBW": {
+    "latitude": 41.84552222222222,
+    "longitude": -106.00428333333333
+  },
+  "WEGVU": {
+    "latitude": 48.338413888888894,
+    "longitude": -114.41006111111112
+  },
+  "MLF": {
+    "latitude": 38.36035555555556,
+    "longitude": -113.01323333333333
+  },
+  "KURSE": {
+    "latitude": 42.07490555555556,
+    "longitude": -105.16004444444445
+  },
+  "KD48Q": {
+    "latitude": 38.0,
+    "longitude": -110.0
+  },
+  "HELPR": {
+    "latitude": 39.753141666666664,
+    "longitude": -110.54812222222222
+  },
+  "PATRR": {
+    "latitude": 46.912219444444446,
+    "longitude": -111.75959722222223
+  },
+  "GAROT": {
+    "latitude": 39.3,
+    "longitude": -113.25
+  },
+  "EBIYO": {
+    "latitude": 43.453875000000004,
+    "longitude": -106.3398
+  },
+  "TABLL": {
+    "latitude": 38.665641666666666,
+    "longitude": -113.17643055555556
+  },
+  "PATIO": {
+    "latitude": 41.266666666666666,
+    "longitude": -112.53333333333333
+  },
+  "LAWTN": {
+    "latitude": 45.82423611111111,
+    "longitude": -106.85673333333332
+  },
+  "KU54M": {
+    "latitude": 39.0,
+    "longitude": -114.0
+  },
+  "KU63O": {
+    "latitude": 40.5,
+    "longitude": -112.0
+  },
+  "KU63M": {
+    "latitude": 40.5,
+    "longitude": -114.0
+  },
+  "HASSL": {
+    "latitude": 37.57022222222223,
+    "longitude": -110.88350833333334
+  },
+  "UROCO": {
+    "latitude": 42.8645,
+    "longitude": -110.84030555555555
+  },
+  "NIMPH": {
+    "latitude": 47.431916666666666,
+    "longitude": -111.66313055555555
+  },
+  "WAXIT": {
+    "latitude": 46.70059166666667,
+    "longitude": -116.77678888888889
+  },
+  "CEZ": {
+    "latitude": 37.38984722222222,
+    "longitude": -108.56175277777777
+  },
+  "KD63U": {
+    "latitude": 40.5,
+    "longitude": -106.0
+  },
+  "RICCO": {
+    "latitude": 43.80809444444444,
+    "longitude": -107.041725
+  },
+  "RIW": {
+    "latitude": 43.065730555555554,
+    "longitude": -108.45553333333334
+  },
+  "KU15Q": {
+    "latitude": 47.5,
+    "longitude": -110.0
+  },
+  "KD57S": {
+    "latitude": 39.5,
+    "longitude": -108.0
+  },
+  "KU81S": {
+    "latitude": 43.5,
+    "longitude": -108.0
+  },
+  "BONGO": {
+    "latitude": 40.12530833333334,
+    "longitude": -109.35627222222222
+  },
+  "REKKA": {
+    "latitude": 39.782291666666666,
+    "longitude": -115.26967222222223
+  },
+  "HVE": {
+    "latitude": 38.41680833333333,
+    "longitude": -110.69991666666667
+  },
+  "FETIK": {
+    "latitude": 43.290163888888884,
+    "longitude": -108.36777222222221
+  },
+  "HIRSO": {
+    "latitude": 45.144622222222225,
+    "longitude": -111.6379888888889
+  },
+  "YOYNO": {
+    "latitude": 48.36088888888889,
+    "longitude": -110.04772777777778
+  },
+  "CHE": {
+    "latitude": 40.52008055555555,
+    "longitude": -107.3049
+  },
+  "ILC": {
+    "latitude": 38.250191666666666,
+    "longitude": -114.39422777777779
+  },
+  "KU84S": {
+    "latitude": 44.0,
+    "longitude": -108.0
+  },
+  "CUSDA": {
+    "latitude": 46.937124999999995,
+    "longitude": -112.01721944444445
+  },
+  "PUMPS": {
+    "latitude": 36.218538888888894,
+    "longitude": -107.69323333333334
+  },
+  "EDLES": {
+    "latitude": 38.677727777777775,
+    "longitude": -109.94070833333333
+  },
+  "OGD": {
+    "latitude": 41.22409722222223,
+    "longitude": -112.09824166666667
+  },
+  "MOJVI": {
+    "latitude": 37.853225,
+    "longitude": -111.94922222222223
+  },
+  "FROGS": {
+    "latitude": 40.52003333333333,
+    "longitude": -105.89478055555556
+  },
+  "REANA": {
+    "latitude": 38.4,
+    "longitude": -114.33333333333333
+  },
+  "KU15M": {
+    "latitude": 47.5,
+    "longitude": -114.0
+  },
+  "CEMLI": {
+    "latitude": 46.431844444444444,
+    "longitude": -111.90521944444446
+  },
+  "HUNTZ": {
+    "latitude": 42.882083333333334,
+    "longitude": -108.07317222222221
+  },
+  "HERSH": {
+    "latitude": 39.51277777777778,
+    "longitude": -109.98530555555556
+  },
+  "GUSIE": {
+    "latitude": 46.17895,
+    "longitude": -112.07837222222221
+  },
+  "JUGIV": {
+    "latitude": 42.96210833333333,
+    "longitude": -108.14539166666667
+  },
+  "KD81U": {
+    "latitude": 43.5,
+    "longitude": -106.0
+  },
+  "OCS": {
+    "latitude": 41.59021111111112,
+    "longitude": -109.01532777777778
+  },
+  "WOSLA": {
+    "latitude": 46.60690555555556,
+    "longitude": -111.98735833333333
+  },
+  "KU54Q": {
+    "latitude": 39.0,
+    "longitude": -110.0
+  },
+  "FIGOJ": {
+    "latitude": 43.52614444444444,
+    "longitude": -113.29118888888888
+  },
+  "KD66U": {
+    "latitude": 41.0,
+    "longitude": -106.0
+  },
+  "FIKAB": {
+    "latitude": 47.811616666666666,
+    "longitude": -114.967175
+  },
+  "KD69U": {
+    "latitude": 41.5,
+    "longitude": -106.0
+  },
+  "KD57Q": {
+    "latitude": 39.5,
+    "longitude": -110.0
+  },
+  "DTA": {
+    "latitude": 39.302211111111106,
+    "longitude": -112.50555555555556
+  },
+  "DNJ": {
+    "latitude": 44.76709722222222,
+    "longitude": -116.20627777777779
+  },
+  "DRYLK": {
+    "latitude": 38.81666666666667,
+    "longitude": -116.1
+  },
+  "BEARR": {
+    "latitude": 41.530791666666666,
+    "longitude": -112.48844444444444
+  },
+  "CESIG": {
+    "latitude": 47.953025000000004,
+    "longitude": -116.49538611111112
+  },
+  "HBU": {
+    "latitude": 38.45211666666667,
+    "longitude": -107.03971388888888
+  },
+  "KU72S": {
+    "latitude": 42.0,
+    "longitude": -108.0
+  },
+  "PAWLY": {
+    "latitude": 39.19713888888889,
+    "longitude": -113.43982777777778
+  },
+  "CIDUK": {
+    "latitude": 45.82771666666667,
+    "longitude": -110.50768611111111
+  },
+  "MLD": {
+    "latitude": 42.1999,
+    "longitude": -112.45123611111111
+  },
+  "PITMN": {
+    "latitude": 39.100744444444445,
+    "longitude": -107.3086111111111
+  },
+  "OYIKA": {
+    "latitude": 48.42536111111111,
+    "longitude": -114.21619722222222
+  },
+  "COD": {
+    "latitude": 44.62045277777778,
+    "longitude": -108.96491666666667
+  },
+  "PROXI": {
+    "latitude": 41.97244722222222,
+    "longitude": -112.52605277777778
+  },
+  "KU57O": {
+    "latitude": 39.5,
+    "longitude": -112.0
+  },
+  "DOXIE": {
+    "latitude": 45.83895277777778,
+    "longitude": -115.17136111111111
+  },
+  "GRAPH": {
+    "latitude": 47.26768611111111,
+    "longitude": -118.00570277777778
+  },
+  "CEVAR": {
+    "latitude": 40.78876944444444,
+    "longitude": -112.91086111111112
+  },
+  "WUDIR": {
+    "latitude": 36.48498055555556,
+    "longitude": -109.48953333333334
+  },
+  "GLENO": {
+    "latitude": 39.34773333333334,
+    "longitude": -107.36913888888888
+  },
+  "SWIVL": {
+    "latitude": 46.42813611111111,
+    "longitude": -108.85132777777777
+  },
+  "KU60Q": {
+    "latitude": 40.0,
+    "longitude": -110.0
+  },
+  "CZI": {
+    "latitude": 43.99977777777778,
+    "longitude": -106.43573055555557
+  },
+  "PIH": {
+    "latitude": 42.870383333333336,
+    "longitude": -112.65236111111112
+  },
+  "JITIP": {
+    "latitude": 43.66582222222222,
+    "longitude": -107.368175
+  },
+  "ZISON": {
+    "latitude": 46.18827222222222,
+    "longitude": -112.78863888888888
+  },
+  "KU72Q": {
+    "latitude": 42.0,
+    "longitude": -110.0
+  },
+  "KU69Q": {
+    "latitude": 41.5,
+    "longitude": -110.0
+  },
+  "JNC": {
+    "latitude": 39.05956666666666,
+    "longitude": -108.792575
+  },
+  "KD87U": {
+    "latitude": 44.5,
+    "longitude": -106.0
+  },
+  "SIRPE": {
+    "latitude": 43.32865,
+    "longitude": -114.21894444444445
+  },
+  "DNW": {
+    "latitude": 43.82827777777778,
+    "longitude": -110.33547499999999
+  },
+  "CRD": {
+    "latitude": 48.18561388888889,
+    "longitude": -111.91412777777778
+  },
+  "JESIE": {
+    "latitude": 40.02353333333333,
+    "longitude": -106.87542222222221
+  },
+  "KU60O": {
+    "latitude": 40.0,
+    "longitude": -112.0
+  },
+  "BVL": {
+    "latitude": 40.72609722222222,
+    "longitude": -113.75741666666667
+  },
+  "JULIK": {
+    "latitude": 39.15300555555555,
+    "longitude": -112.52571111111111
+  },
+  "ELY": {
+    "latitude": 39.298125,
+    "longitude": -114.84830555555556
+  },
+  "WAMIS": {
+    "latitude": 46.61654444444444,
+    "longitude": -113.95220277777779
+  },
+  "HOSUN": {
+    "latitude": 44.771875,
+    "longitude": -114.0611
+  },
+  "DOTVE": {
+    "latitude": 48.331775,
+    "longitude": -112.09163055555555
+  },
+  "RIDJE": {
+    "latitude": 40.518175,
+    "longitude": -105.63813333333334
+  },
+  "BERNT": {
+    "latitude": 42.913488888888885,
+    "longitude": -109.61256944444443
+  },
+  "TEHRU": {
+    "latitude": 39.242605555555556,
+    "longitude": -106.72089166666667
+  },
+  "JYMBO": {
+    "latitude": 43.306844444444444,
+    "longitude": -106.68216111111111
+  },
+  "PVU": {
+    "latitude": 40.214936111111115,
+    "longitude": -111.72131944444445
+  },
+  "LARNN": {
+    "latitude": 47.673877777777776,
+    "longitude": -116.82833333333333
+  },
+  "CKW": {
+    "latitude": 41.75570833333333,
+    "longitude": -107.58198333333333
+  },
+  "WOGAR": {
+    "latitude": 43.53015555555555,
+    "longitude": -114.4797138888889
+  },
+  "KD54S": {
+    "latitude": 39.0,
+    "longitude": -108.0
+  },
+  "EKR": {
+    "latitude": 40.06744166666667,
+    "longitude": -107.92495000000001
+  },
+  "KU21O": {
+    "latitude": 48.5,
+    "longitude": -112.0
+  },
+  "RLG": {
+    "latitude": 40.00263888888889,
+    "longitude": -106.44248888888889
+  },
+  "CTBRT": {
+    "latitude": 44.84349166666667,
+    "longitude": -117.81148611111111
+  },
+  "GIGSE": {
+    "latitude": 43.226572222222224,
+    "longitude": -111.22021666666667
+  },
+  "KU75Q": {
+    "latitude": 42.5,
+    "longitude": -110.0
+  },
+  "HEBLO": {
+    "latitude": 36.83336388888889,
+    "longitude": -107.98855277777778
+  },
+  "FRNZY": {
+    "latitude": 39.97078333333334,
+    "longitude": -112.11910555555555
+  },
+  "MADEF": {
+    "latitude": 46.91911111111111,
+    "longitude": -114.11370833333332
+  },
+  "OFFIG": {
+    "latitude": 39.63358611111111,
+    "longitude": -111.42923888888889
+  },
+  "JFFRS": {
+    "latitude": 45.82179444444445,
+    "longitude": -111.63408333333334
+  },
+  "ETL": {
+    "latitude": 38.04025277777777,
+    "longitude": -108.258575
+  },
+  "LAR": {
+    "latitude": 41.33781944444445,
+    "longitude": -105.72093333333333
+  },
+  "KD45S": {
+    "latitude": 37.5,
+    "longitude": -108.0
+  },
+  "EDETH": {
+    "latitude": 39.68018055555555,
+    "longitude": -112.81913333333333
+  },
+  "OPPEE": {
+    "latitude": 41.459361111111114,
+    "longitude": -106.24525
+  },
+  "KU54K": {
+    "latitude": 39.0,
+    "longitude": -116.0
+  },
+  "BAYAM": {
+    "latitude": 46.45502777777778,
+    "longitude": -108.67459444444445
+  },
+  "ONOCO": {
+    "latitude": 48.01443888888889,
+    "longitude": -114.1527138888889
+  },
+  "SAKES": {
+    "latitude": 38.833475,
+    "longitude": -110.27125555555556
+  },
+  "BDROC": {
+    "latitude": 38.45091111111111,
+    "longitude": -108.60551666666666
+  },
+  "KU66O": {
+    "latitude": 41.0,
+    "longitude": -112.0
+  },
+  "SABAT": {
+    "latitude": 44.01658611111111,
+    "longitude": -111.6653888888889
+  },
+  "FBR": {
+    "latitude": 41.37843888888889,
+    "longitude": -110.42406111111111
+  },
+  "ENNBR": {
+    "latitude": 46.87574444444444,
+    "longitude": -108.78249166666667
+  },
+  "KD63S": {
+    "latitude": 40.5,
+    "longitude": -108.0
+  },
+  "KD66S": {
+    "latitude": 41.0,
+    "longitude": -108.0
+  },
+  "KU51O": {
+    "latitude": 38.5,
+    "longitude": -112.0
+  },
+  "DORTN": {
+    "latitude": 43.04350833333333,
+    "longitude": -107.217575
+  },
+  "KANON": {
+    "latitude": 38.39590277777778,
+    "longitude": -105.99182222222223
+  },
+  "CORIX": {
+    "latitude": 46.24570833333333,
+    "longitude": -114.1256611111111
+  },
+  "DATES": {
+    "latitude": 46.31931666666667,
+    "longitude": -118.19037777777778
+  },
+  "KU69O": {
+    "latitude": 41.5,
+    "longitude": -112.0
+  },
+  "TAYLR": {
+    "latitude": 38.79338333333333,
+    "longitude": -106.73403333333333
+  },
+  "BPI": {
+    "latitude": 42.57947222222223,
+    "longitude": -110.10921388888889
+  },
+  "DBL": {
+    "latitude": 39.439344444444444,
+    "longitude": -106.89468055555557
+  },
+  "ZOSNO": {
+    "latitude": 45.81025277777778,
+    "longitude": -116.63025555555555
+  },
+  "MTU": {
+    "latitude": 40.149094444444444,
+    "longitude": -110.12702777777777
+  },
+  "HIKOX": {
+    "latitude": 43.20451388888889,
+    "longitude": -106.87181666666666
+  },
+  "PACCE": {
+    "latitude": 48.45151944444445,
+    "longitude": -115.55658888888888
+  },
+  "HOMGO": {
+    "latitude": 48.417944444444444,
+    "longitude": -112.22590833333334
+  },
+  "FAXON": {
+    "latitude": 45.54248333333333,
+    "longitude": -114.08410555555555
+  },
+  "DVC": {
+    "latitude": 37.80873888888889,
+    "longitude": -108.931275
+  },
+  "GWEDO": {
+    "latitude": 41.347388888888894,
+    "longitude": -108.2238888888889
+  },
+  "KU72O": {
+    "latitude": 42.0,
+    "longitude": -112.0
+  },
+  "MTJ": {
+    "latitude": 38.506436111111114,
+    "longitude": -107.89928888888889
+  },
+  "KU12S": {
+    "latitude": 47.0,
+    "longitude": -108.0
+  },
+  "DDY": {
+    "latitude": 43.091055555555556,
+    "longitude": -106.277025
+  },
+  "XOJPO": {
+    "latitude": 37.74885277777778,
+    "longitude": -113.05786111111111
+  },
+  "NLSEN": {
+    "latitude": 40.58131111111111,
+    "longitude": -107.9985638888889
+  },
+  "BOY": {
+    "latitude": 43.46315277777778,
+    "longitude": -108.29971111111111
+  },
+  "TXC": {
+    "latitude": 39.69831666666666,
+    "longitude": -103.2149388888889
+  },
+  "KD66A": {
+    "latitude": 41.0,
+    "longitude": -100.0
+  },
+  "CHAFE": {
+    "latitude": 46.80940833333333,
+    "longitude": -97.39012777777778
+  },
+  "KD66W": {
+    "latitude": 41.0,
+    "longitude": -104.0
+  },
+  "JASTI": {
+    "latitude": 44.02333333333333,
+    "longitude": -101.44055555555556
+  },
+  "KD84Y": {
+    "latitude": 44.0,
+    "longitude": -102.0
+  },
+  "BOPMY": {
+    "latitude": 44.326211111111114,
+    "longitude": -95.61798611111111
+  },
+  "PWE": {
+    "latitude": 40.20035277777778,
+    "longitude": -96.20628055555555
+  },
+  "CYS": {
+    "latitude": 41.21096666666667,
+    "longitude": -104.7729138888889
+  },
+  "KD54A": {
+    "latitude": 39.0,
+    "longitude": -100.0
+  },
+  "KD75A": {
+    "latitude": 42.5,
+    "longitude": -100.0
+  },
+  "ELJAY": {
+    "latitude": 41.22510277777778,
+    "longitude": -101.22146111111111
+  },
+  "LBF": {
+    "latitude": 41.04870555555556,
+    "longitude": -100.74709722222222
+  },
+  "DPR": {
+    "latitude": 45.078175,
+    "longitude": -101.71507222222222
+  },
+  "FLOOD": {
+    "latitude": 38.34002777777778,
+    "longitude": -105.09399444444443
+  },
+  "KP72C": {
+    "latitude": 42.0,
+    "longitude": -98.0
+  },
+  "KD63Y": {
+    "latitude": 40.5,
+    "longitude": -102.0
+  },
+  "ABR": {
+    "latitude": 45.41735555555555,
+    "longitude": -98.36871944444444
+  },
+  "EJAFA": {
+    "latitude": 38.39456388888889,
+    "longitude": -98.85769444444443
+  },
+  "WEITT": {
+    "latitude": 37.74583333333334,
+    "longitude": -95.56777777777778
+  },
+  "KP09A": {
+    "latitude": 46.5,
+    "longitude": -100.0
+  },
+  "KUBKE": {
+    "latitude": 44.22027777777778,
+    "longitude": -101.44250000000001
+  },
+  "KD75W": {
+    "latitude": 42.5,
+    "longitude": -104.0
+  },
+  "ICT": {
+    "latitude": 37.74525833333333,
+    "longitude": -97.58383055555555
+  },
+  "MLS": {
+    "latitude": 46.38227777777778,
+    "longitude": -105.95353333333334
+  },
+  "END": {
+    "latitude": 36.344972222222225,
+    "longitude": -97.91855555555556
+  },
+  "GLD": {
+    "latitude": 39.38786944444444,
+    "longitude": -101.69229722222222
+  },
+  "ONACI": {
+    "latitude": 46.498105555555554,
+    "longitude": -98.86453611111111
+  },
+  "FCS": {
+    "latitude": 38.68069444444444,
+    "longitude": -104.75690833333333
+  },
+  "TOUGH": {
+    "latitude": 46.232886111111114,
+    "longitude": -105.21452777777777
+  },
+  "DRABS": {
+    "latitude": 40.759277777777775,
+    "longitude": -98.37469999999999
+  },
+  "KYLER": {
+    "latitude": 37.801975,
+    "longitude": -98.4556
+  },
+  "TBE": {
+    "latitude": 37.25865833333334,
+    "longitude": -103.60005555555556
+  },
+  "FSHER": {
+    "latitude": 38.309688888888886,
+    "longitude": -104.64753888888889
+  },
+  "KD72Y": {
+    "latitude": 42.0,
+    "longitude": -102.0
+  },
+  "KK54E": {
+    "latitude": 39.0,
+    "longitude": -96.0
+  },
+  "LBL": {
+    "latitude": 37.04439444444444,
+    "longitude": -100.97119722222223
+  },
+  "KK54C": {
+    "latitude": 39.0,
+    "longitude": -98.0
+  },
+  "LEM": {
+    "latitude": 45.91976666666667,
+    "longitude": -102.10383333333333
+  },
+  "IJKUV": {
+    "latitude": 47.118175,
+    "longitude": -101.45153055555556
+  },
+  "KP81A": {
+    "latitude": 43.5,
+    "longitude": -100.0
+  },
+  "PUB": {
+    "latitude": 38.29425555555555,
+    "longitude": -104.42947222222223
+  },
+  "KD81Y": {
+    "latitude": 43.5,
+    "longitude": -102.0
+  },
+  "BFF": {
+    "latitude": 41.89416388888889,
+    "longitude": -103.48203055555555
+  },
+  "MMB": {
+    "latitude": 36.34373333333333,
+    "longitude": -99.88012222222221
+  },
+  "SIMJI": {
+    "latitude": 42.826008333333334,
+    "longitude": -94.79202777777778
+  },
+  "IYATA": {
+    "latitude": 37.797488888888886,
+    "longitude": -102.62215833333333
+  },
+  "LNK": {
+    "latitude": 40.92379444444444,
+    "longitude": -96.74201111111111
+  },
+  "WURUV": {
+    "latitude": 47.131283333333336,
+    "longitude": -98.71466666666667
+  },
+  "BRK": {
+    "latitude": 38.94450555555555,
+    "longitude": -104.63346944444446
+  },
+  "AVVVS": {
+    "latitude": 40.03550555555555,
+    "longitude": -104.76754444444444
+  },
+  "KD57A": {
+    "latitude": 39.5,
+    "longitude": -100.0
+  },
+  "DANDD": {
+    "latitude": 39.39709444444444,
+    "longitude": -103.93913333333333
+  },
+  "KD60A": {
+    "latitude": 40.0,
+    "longitude": -100.0
+  },
+  "DVV": {
+    "latitude": 39.894688888888886,
+    "longitude": -104.6243361111111
+  },
+  "KP81C": {
+    "latitude": 43.5,
+    "longitude": -98.0
+  },
+  "FSD": {
+    "latitude": 43.649483333333336,
+    "longitude": -96.78116666666666
+  },
+  "PUKIC": {
+    "latitude": 43.16913888888889,
+    "longitude": -97.57318611111111
+  },
+  "VAYLA": {
+    "latitude": 44.42765,
+    "longitude": -98.954125
+  },
+  "ANY": {
+    "latitude": 37.15898055555555,
+    "longitude": -98.170775
+  },
+  "KP78E": {
+    "latitude": 43.0,
+    "longitude": -96.0
+  },
+  "VIVID": {
+    "latitude": 43.86045,
+    "longitude": -99.98761944444445
+  },
+  "TARGS": {
+    "latitude": 44.38784444444445,
+    "longitude": -103.13517222222222
+  },
+  "MCK": {
+    "latitude": 40.20379722222223,
+    "longitude": -100.594225
+  },
+  "KD69A": {
+    "latitude": 41.5,
+    "longitude": -100.0
+  },
+  "CAGUX": {
+    "latitude": 44.59523888888889,
+    "longitude": -97.9798888888889
+  },
+  "KD51W": {
+    "latitude": 38.5,
+    "longitude": -104.0
+  },
+  "CRR": {
+    "latitude": 47.42019722222222,
+    "longitude": -105.56559166666666
+  },
+  "OATHE": {
+    "latitude": 38.849805555555555,
+    "longitude": -101.79425833333333
+  },
+  "KD78A": {
+    "latitude": 43.0,
+    "longitude": -100.0
+  },
+  "HIPPY": {
+    "latitude": 36.1945,
+    "longitude": -99.9722888888889
+  },
+  "DORSL": {
+    "latitude": 40.78765277777777,
+    "longitude": -103.1051111111111
+  },
+  "KATES": {
+    "latitude": 42.552749999999996,
+    "longitude": -96.77463333333333
+  },
+  "WILTN": {
+    "latitude": 47.08302777777778,
+    "longitude": -100.79551111111111
+  },
+  "KP60C": {
+    "latitude": 40.0,
+    "longitude": -98.0
+  },
+  "IPNC": {
+    "latitude": 36.719225,
+    "longitude": -97.10059444444444
+  },
+  "RWF": {
+    "latitude": 44.467275,
+    "longitude": -95.12823055555555
+  },
+  "CAREW": {
+    "latitude": 48.15788055555556,
+    "longitude": -99.531325
+  },
+  "DEN": {
+    "latitude": 39.812638888888884,
+    "longitude": -104.6607388888889
+  },
+  "ROKNE": {
+    "latitude": 37.88628333333333,
+    "longitude": -96.80459166666667
+  },
+  "MIRME": {
+    "latitude": 35.78353333333333,
+    "longitude": -103.84218888888888
+  },
+  "KP66C": {
+    "latitude": 41.0,
+    "longitude": -98.0
+  },
+  "KD78Y": {
+    "latitude": 43.0,
+    "longitude": -102.0
+  },
+  "TODDO": {
+    "latitude": 41.84232222222222,
+    "longitude": -95.35872222222221
+  },
+  "WINEX": {
+    "latitude": 35.74327777777778,
+    "longitude": -101.38976944444445
+  },
+  "KP90A": {
+    "latitude": 45.0,
+    "longitude": -100.0
+  },
+  "KD78W": {
+    "latitude": 43.0,
+    "longitude": -104.0
+  },
+  "HYS": {
+    "latitude": 38.847655555555555,
+    "longitude": -99.27679166666667
+  },
+  "ROGUU": {
+    "latitude": 48.73988888888889,
+    "longitude": -105.51488611111111
+  },
+  "SLN": {
+    "latitude": 38.92513888888889,
+    "longitude": -97.62133333333333
+  },
+  "OBH": {
+    "latitude": 41.37573611111111,
+    "longitude": -98.35359444444444
+  },
+  "ONL": {
+    "latitude": 42.4705,
+    "longitude": -98.68692777777778
+  },
+  "HORSY": {
+    "latitude": 35.31968055555556,
+    "longitude": -101.65351111111111
+  },
+  "KP75E": {
+    "latitude": 42.5,
+    "longitude": -96.0
+  },
+  "KD87W": {
+    "latitude": 44.5,
+    "longitude": -104.0
+  },
+  "GCK": {
+    "latitude": 37.91900277777778,
+    "longitude": -100.72508333333333
+  },
+  "ZAROS": {
+    "latitude": 37.989333333333335,
+    "longitude": -102.33933333333333
+  },
+  "KP78C": {
+    "latitude": 43.0,
+    "longitude": -98.0
+  },
+  "KD60W": {
+    "latitude": 40.0,
+    "longitude": -104.0
+  },
+  "KP90E": {
+    "latitude": 45.0,
+    "longitude": -96.0
+  },
+  "SELLS": {
+    "latitude": 38.828250000000004,
+    "longitude": -103.17374444444445
+  },
+  "BURDN": {
+    "latitude": 37.404852777777776,
+    "longitude": -96.91183333333333
+  },
+  "SUX": {
+    "latitude": 42.34451666666667,
+    "longitude": -96.32364444444444
+  },
+  "HLC": {
+    "latitude": 39.25874722222222,
+    "longitude": -100.226
+  },
+  "NUXRO": {
+    "latitude": 41.87065833333333,
+    "longitude": -100.34324166666666
+  },
+  "ASYLM": {
+    "latitude": 38.53955555555555,
+    "longitude": -103.10369444444444
+  },
+  "KD81W": {
+    "latitude": 43.5,
+    "longitude": -104.0
+  },
+  "LAA": {
+    "latitude": 38.197091666666665,
+    "longitude": -102.68753333333333
+  },
+  "KD72A": {
+    "latitude": 42.0,
+    "longitude": -100.0
+  },
+  "MOSER": {
+    "latitude": 35.021613888888886,
+    "longitude": -102.61935277777778
+  },
+  "RAP": {
+    "latitude": 43.976038888888894,
+    "longitude": -103.01232777777778
+  },
+  "TOXIC": {
+    "latitude": 37.90046666666667,
+    "longitude": -99.89625277777779
+  },
+  "KOTZA": {
+    "latitude": 39.75698611111111,
+    "longitude": -98.44375277777777
+  },
+  "FOSIG": {
+    "latitude": 43.8175,
+    "longitude": -101.42166666666667
+  },
+  "KD51Y": {
+    "latitude": 38.5,
+    "longitude": -102.0
+  },
+  "KP75C": {
+    "latitude": 42.5,
+    "longitude": -98.0
+  },
+  "BRUIT": {
+    "latitude": 42.176030555555556,
+    "longitude": -101.3537861111111
+  },
+  "FOD": {
+    "latitude": 42.61125,
+    "longitude": -94.29481666666666
+  },
+  "BALTA": {
+    "latitude": 48.19074722222222,
+    "longitude": -100.04755555555555
+  },
+  "HGO": {
+    "latitude": 38.8175,
+    "longitude": -103.62138888888889
+  },
+  "TATKE": {
+    "latitude": 37.049225,
+    "longitude": -104.73734166666667
+  },
+  "DOSOA": {
+    "latitude": 38.170719444444444,
+    "longitude": -95.12681388888888
+  },
+  "PHP": {
+    "latitude": 44.05823888888889,
+    "longitude": -101.66419444444445
+  },
+  "KD75Y": {
+    "latitude": 42.5,
+    "longitude": -102.0
+  },
+  "ATY": {
+    "latitude": 44.979686111111114,
+    "longitude": -97.14172222222223
+  },
+  "DHAKS": {
+    "latitude": 46.45809722222223,
+    "longitude": -106.269
+  },
+  "KD72W": {
+    "latitude": 42.0,
+    "longitude": -104.0
+  },
+  "DENCA": {
+    "latitude": 37.191205555555555,
+    "longitude": -101.76511944444445
+  },
+  "UFFDA": {
+    "latitude": 44.49611111111111,
+    "longitude": -96.09027777777777
+  },
+  "PEZIB": {
+    "latitude": 35.76217777777778,
+    "longitude": -102.66970555555557
+  },
+  "HCT": {
+    "latitude": 40.454061111111116,
+    "longitude": -100.92357222222223
+  },
+  "OVR": {
+    "latitude": 41.16716666666667,
+    "longitude": -95.73685277777778
+  },
+  "COODY": {
+    "latitude": 36.6672,
+    "longitude": -95.50019722222223
+  },
+  "ISN": {
+    "latitude": 48.253416666666666,
+    "longitude": -103.75066666666666
+  },
+  "KU21W": {
+    "latitude": 48.5,
+    "longitude": -104.0
+  },
+  "EPKEE": {
+    "latitude": 39.59283611111111,
+    "longitude": -103.79952777777778
+  },
+  "CUGGA": {
+    "latitude": 39.31766666666667,
+    "longitude": -100.86866111111111
+  },
+  "DOBSE": {
+    "latitude": 37.77483888888889,
+    "longitude": -101.84071944444445
+  },
+  "JUDGE": {
+    "latitude": 39.019780555555556,
+    "longitude": -96.9188388888889
+  },
+  "KD54Y": {
+    "latitude": 39.0,
+    "longitude": -102.0
+  },
+  "RYLIE": {
+    "latitude": 38.33731111111111,
+    "longitude": -101.82747777777777
+  },
+  "MOTLY": {
+    "latitude": 44.76400833333334,
+    "longitude": -102.42867777777778
+  },
+  "EQUIN": {
+    "latitude": 46.213413888888894,
+    "longitude": -104.08377499999999
+  },
+  "AQP": {
+    "latitude": 45.228461111111116,
+    "longitude": -96.00954722222222
+  },
+  "HANKI": {
+    "latitude": 41.63198055555556,
+    "longitude": -102.93013333333334
+  },
+  "PENUT": {
+    "latitude": 38.61677777777778,
+    "longitude": -99.64039166666667
+  },
+  "BLOOM": {
+    "latitude": 37.79693611111111,
+    "longitude": -104.02766111111112
+  },
+  "AKO": {
+    "latitude": 40.15555277777778,
+    "longitude": -103.17971111111112
+  },
+  "KK51A": {
+    "latitude": 38.5,
+    "longitude": -100.0
+  },
+  "GLL": {
+    "latitude": 40.50386666666667,
+    "longitude": -104.55301388888888
+  },
+  "AXMAN": {
+    "latitude": 48.430033333333334,
+    "longitude": -100.0990861111111
+  },
+  "SNY": {
+    "latitude": 41.09666666666667,
+    "longitude": -102.983
+  },
+  "KP90C": {
+    "latitude": 45.0,
+    "longitude": -98.0
+  },
+  "SODDA": {
+    "latitude": 45.38406388888889,
+    "longitude": -121.08628333333333
+  },
+  "TIMEE": {
+    "latitude": 45.08818333333333,
+    "longitude": -121.69708055555556
+  },
+  "SUNSN": {
+    "latitude": 45.95266388888889,
+    "longitude": -120.64397222222223
+  },
+  "SUNED": {
+    "latitude": 46.294875,
+    "longitude": -119.96004166666667
+  },
+  "TERJE": {
+    "latitude": 44.40676111111111,
+    "longitude": -118.99131666666666
+  },
+  "EXODE": {
+    "latitude": 46.450697222222225,
+    "longitude": -119.3308111111111
+  },
+  "GARYC": {
+    "latitude": 45.695425,
+    "longitude": -118.46315
+  },
+  "BREED": {
+    "latitude": 45.38410555555556,
+    "longitude": -119.803
+  },
+  "NALNE": {
+    "latitude": 46.803105555555554,
+    "longitude": -102.798825
+  },
+  "ZATUK": {
+    "latitude": 48.448813888888886,
+    "longitude": -101.42193333333334
+  },
+  "KP21E": {
+    "latitude": 48.5,
+    "longitude": -96.0
+  },
+  "RODDY": {
+    "latitude": 38.35845833333333,
+    "longitude": -105.37904444444443
+  },
+  "CIPGO": {
+    "latitude": 47.663238888888884,
+    "longitude": -103.05619444444444
+  },
+  "NOCIK": {
+    "latitude": 46.96308611111112,
+    "longitude": -96.3891638888889
+  },
+  "CFWWY": {
+    "latitude": 48.420516666666664,
+    "longitude": -106.75456111111112
+  },
+  "JIXER": {
+    "latitude": 48.441430555555556,
+    "longitude": -99.22203888888889
+  },
+  "GFK": {
+    "latitude": 47.95483333333333,
+    "longitude": -97.18536944444445
+  },
+  "IJEDA": {
+    "latitude": 48.174955555555556,
+    "longitude": -98.81870555555555
+  },
+  "GGW": {
+    "latitude": 48.21530555555556,
+    "longitude": -106.62541944444443
+  },
+  "HAXAT": {
+    "latitude": 48.25832222222222,
+    "longitude": -101.41579722222222
+  },
+  "TTAIL": {
+    "latitude": 46.691111111111105,
+    "longitude": -96.68583333333333
+  },
+  "KU21S": {
+    "latitude": 48.5,
+    "longitude": -108.0
+  },
+  "BOWDN": {
+    "latitude": 48.31323333333333,
+    "longitude": -107.48614444444445
+  },
+  "JOLPA": {
+    "latitude": 48.00194166666667,
+    "longitude": -96.08976666666666
+  },
+  "BOWIS": {
+    "latitude": 47.734,
+    "longitude": -103.161325
+  },
+  "HML": {
+    "latitude": 48.869416666666666,
+    "longitude": -97.1170861111111
+  },
+  "FAR": {
+    "latitude": 46.75336111111111,
+    "longitude": -96.85131944444444
+  },
+  "ZEVAR": {
+    "latitude": 47.19642222222222,
+    "longitude": -102.64795277777779
+  },
+  "VURLY": {
+    "latitude": 46.92277222222222,
+    "longitude": -91.98346388888889
+  },
+  "MSP": {
+    "latitude": 44.896499999999996,
+    "longitude": -93.23653055555556
+  },
+  "ZOTLI": {
+    "latitude": 47.43131666666667,
+    "longitude": -92.6513388888889
+  },
+  "WAMAG": {
+    "latitude": 45.17229722222222,
+    "longitude": -91.46800555555556
+  },
+  "KINGZ": {
+    "latitude": 46.21745833333333,
+    "longitude": -92.306
+  },
+  "ONA": {
+    "latitude": 44.07621666666667,
+    "longitude": -91.70573333333334
+  },
+  "GEP": {
+    "latitude": 45.14568611111111,
+    "longitude": -93.37318055555555
+  },
+  "NIWRA": {
+    "latitude": 46.99602222222222,
+    "longitude": -94.49745833333334
+  },
+  "LAAKE": {
+    "latitude": 44.586594444444444,
+    "longitude": -93.1171111111111
+  },
+  "BAINY": {
+    "latitude": 45.75361111111111,
+    "longitude": -93.69944444444445
+  },
+  "OWXER": {
+    "latitude": 44.72620555555556,
+    "longitude": -91.60719444444445
+  },
+  "PEKOY": {
+    "latitude": 47.45684444444445,
+    "longitude": -92.72532777777778
+  },
+  "RIGET": {
+    "latitude": 45.84688055555556,
+    "longitude": -91.56239166666667
+  },
+  "LMN": {
+    "latitude": 40.59674722222223,
+    "longitude": -93.96759444444444
+  },
+  "FGT": {
+    "latitude": 44.630944444444445,
+    "longitude": -93.18205277777778
+  },
+  "JORDY": {
+    "latitude": 42.086536111111116,
+    "longitude": -93.52578333333334
+  },
+  "FRM": {
+    "latitude": 43.645983333333334,
+    "longitude": -94.42254722222222
+  },
+  "FAYYE": {
+    "latitude": 44.37553888888889,
+    "longitude": -89.66577500000001
+  },
+  "PUXIE": {
+    "latitude": 47.92423888888889,
+    "longitude": -92.091225
+  },
+  "YELUD": {
+    "latitude": 45.46808611111111,
+    "longitude": -90.09764722222222
+  },
+  "KP69G": {
+    "latitude": 41.5,
+    "longitude": -94.0
+  },
+  "MCW": {
+    "latitude": 43.09475833333334,
+    "longitude": -93.32987222222222
+  },
+  "HEPED": {
+    "latitude": 46.49848611111111,
+    "longitude": -90.94774166666667
+  },
+  "FENOK": {
+    "latitude": 47.53651111111111,
+    "longitude": -93.08387777777777
+  },
+  "INL": {
+    "latitude": 48.56579722222222,
+    "longitude": -93.40567777777778
+  },
+  "CESNA": {
+    "latitude": 45.870555555555555,
+    "longitude": -92.18305555555555
+  },
+  "CFVLJ": {
+    "latitude": 46.7632,
+    "longitude": -94.87296111111111
+  },
+  "HUDDS": {
+    "latitude": 43.8491,
+    "longitude": -91.70546111111112
+  },
+  "LORAH": {
+    "latitude": 44.757583333333336,
+    "longitude": -93.20846111111112
+  },
+  "DSM": {
+    "latitude": 41.437625,
+    "longitude": -93.64855833333334
+  },
+  "LEYVI": {
+    "latitude": 47.51927222222222,
+    "longitude": -94.94588611111112
+  },
+  "DLH": {
+    "latitude": 46.802163888888884,
+    "longitude": -92.20286944444445
+  },
+  "SAW": {
+    "latitude": 46.358922222222226,
+    "longitude": -87.39742500000001
+  },
+  "VRMIL": {
+    "latitude": 48.46134166666667,
+    "longitude": -91.9846388888889
+  },
+  "JAYME": {
+    "latitude": 45.84780833333333,
+    "longitude": -89.3253111111111
+  },
+  "DBQ": {
+    "latitude": 42.40147222222222,
+    "longitude": -90.709075
+  },
+  "JEBTO": {
+    "latitude": 46.95634722222223,
+    "longitude": -90.5528861111111
+  },
+  "IB": {
+    "latitude": 48.82516666666667,
+    "longitude": -91.57761111111111
+  },
+  "STNRD": {
+    "latitude": 47.016666666666666,
+    "longitude": -87.05
+  },
+  "YQT": {
+    "latitude": 48.253766666666664,
+    "longitude": -89.43757777777778
+  },
+  "BINGR": {
+    "latitude": 46.67988888888889,
+    "longitude": -89.2947138888889
+  },
+  "HUDRU": {
+    "latitude": 47.52491388888889,
+    "longitude": -90.86106388888888
+  },
+  "CINOP": {
+    "latitude": 46.08991944444445,
+    "longitude": -88.86432222222221
+  },
+  "DLL": {
+    "latitude": 43.55083333333333,
+    "longitude": -89.76372222222223
+  },
+  "KSDRD": {
+    "latitude": 47.94178333333333,
+    "longitude": -87.42469444444446
+  },
+  "CAPPR": {
+    "latitude": 42.21798888888889,
+    "longitude": -92.42680833333334
+  },
+  "DELGI": {
+    "latitude": 48.03583333333333,
+    "longitude": -88.77683333333333
+  },
+  "FEMOK": {
+    "latitude": 47.45758055555556,
+    "longitude": -88.73337777777778
+  },
+  "SUTOY": {
+    "latitude": 45.249383333333334,
+    "longitude": -89.53104722222223
+  },
+  "HOVKI": {
+    "latitude": 45.956244444444444,
+    "longitude": -89.23355833333333
+  },
+  "KD36Q": {
+    "latitude": 36.0,
+    "longitude": -110.0
+  },
+  "ALS": {
+    "latitude": 37.349158333333335,
+    "longitude": -105.81553611111111
+  },
+  "ISITE": {
+    "latitude": 48.495047222222226,
+    "longitude": -109.27328333333334
+  },
+  "DGD": {
+    "latitude": 37.023469444444444,
+    "longitude": -92.87692222222222
+  },
+  "GSH": {
+    "latitude": 41.52515555555556,
+    "longitude": -86.02795277777777
+  },
+  "MCI": {
+    "latitude": 39.285333333333334,
+    "longitude": -94.73706111111112
+  },
+  "KUBBS": {
+    "latitude": 42.29812222222222,
+    "longitude": -87.40324722222223
+  },
+  "ISUKY": {
+    "latitude": 37.25315,
+    "longitude": -88.53603611111112
+  },
+  "AUGUS": {
+    "latitude": 38.31540833333333,
+    "longitude": -87.25221111111111
+  },
+  "BEJAE": {
+    "latitude": 42.44887222222222,
+    "longitude": -85.07565
+  },
+  "HOVRI": {
+    "latitude": 37.45011944444445,
+    "longitude": -94.3045861111111
+  },
+  "HASTE": {
+    "latitude": 42.67095277777778,
+    "longitude": -85.16736111111112
+  },
+  "BAE": {
+    "latitude": 43.11685277777778,
+    "longitude": -88.28434444444444
+  },
+  "DAFFY": {
+    "latitude": 32.82618611111111,
+    "longitude": -88.5022861111111
+  },
+  "ZEVLA": {
+    "latitude": 41.360619444444445,
+    "longitude": -86.94543055555556
+  },
+  "LUKMY": {
+    "latitude": 38.853144444444446,
+    "longitude": -87.6021111111111
+  },
+  "BADBE": {
+    "latitude": 32.05908611111111,
+    "longitude": -91.05506388888888
+  },
+  "HALIE": {
+    "latitude": 41.51606944444445,
+    "longitude": -87.15887500000001
+  },
+  "KK60G": {
+    "latitude": 40.0,
+    "longitude": -94.0
+  },
+  "CITAC": {
+    "latitude": 33.48442222222222,
+    "longitude": -90.65510555555556
+  },
+  "VHP": {
+    "latitude": 39.81480555555555,
+    "longitude": -86.36749999999999
+  },
+  "CODGA": {
+    "latitude": 35.364961111111114,
+    "longitude": -88.65432222222223
+  },
+  "OBK": {
+    "latitude": 42.22137777777778,
+    "longitude": -87.95161944444445
+  },
+  "PIEPE": {
+    "latitude": 34.37198611111111,
+    "longitude": -90.10604722222222
+  },
+  "HAGRI": {
+    "latitude": 34.740411111111115,
+    "longitude": -92.42367222222222
+  },
+  "UIN": {
+    "latitude": 39.847875,
+    "longitude": -91.278925
+  },
+  "AZO": {
+    "latitude": 42.236986111111115,
+    "longitude": -85.55315277777777
+  },
+  "OLNAH": {
+    "latitude": 35.955422222222225,
+    "longitude": -87.13060277777777
+  },
+  "DIXEE": {
+    "latitude": 38.58052777777778,
+    "longitude": -91.20827777777778
+  },
+  "STJ": {
+    "latitude": 39.96077777777778,
+    "longitude": -94.92521944444445
+  },
+  "EVLYN": {
+    "latitude": 35.132355555555556,
+    "longitude": -91.19939722222223
+  },
+  "ELX": {
+    "latitude": 42.14441388888889,
+    "longitude": -86.12270555555556
+  },
+  "DAANG": {
+    "latitude": 36.446466666666666,
+    "longitude": -86.04373333333334
+  },
+  "FAM": {
+    "latitude": 37.67346111111111,
+    "longitude": -90.23406111111112
+  },
+  "MZV": {
+    "latitude": 41.32092222222222,
+    "longitude": -90.6382138888889
+  },
+  "WOLAS": {
+    "latitude": 36.62303611111111,
+    "longitude": -92.96355833333334
+  },
+  "ELSTO": {
+    "latitude": 38.636224999999996,
+    "longitude": -92.13093333333333
+  },
+  "KK54I": {
+    "latitude": 39.0,
+    "longitude": -92.0
+  },
+  "ANPIY": {
+    "latitude": 32.900305555555555,
+    "longitude": -91.35902499999999
+  },
+  "CADIZ": {
+    "latitude": 41.167775,
+    "longitude": -87.3877138888889
+  },
+  "BRBON": {
+    "latitude": 37.83609444444445,
+    "longitude": -85.633425
+  },
+  "BICOL": {
+    "latitude": 36.367375,
+    "longitude": -86.82642777777778
+  },
+  "JAAVE": {
+    "latitude": 39.840525,
+    "longitude": -88.25472222222223
+  },
+  "COMBT": {
+    "latitude": 34.175308333333334,
+    "longitude": -88.76967499999999
+  },
+  "KK57K": {
+    "latitude": 39.5,
+    "longitude": -90.0
+  },
+  "WOPLA": {
+    "latitude": 33.529849999999996,
+    "longitude": -91.36746944444444
+  },
+  "AGENT": {
+    "latitude": 39.610800000000005,
+    "longitude": -94.90571111111112
+  },
+  "BAYLI": {
+    "latitude": 39.708961111111115,
+    "longitude": -91.07961666666667
+  },
+  "DOVQA": {
+    "latitude": 34.48858333333333,
+    "longitude": -92.1453888888889
+  },
+  "MAW": {
+    "latitude": 36.55511388888888,
+    "longitude": -89.91142222222223
+  },
+  "MEM": {
+    "latitude": 35.015116666666664,
+    "longitude": -89.98320833333334
+  },
+  "WILUT": {
+    "latitude": 36.35456666666667,
+    "longitude": -93.73547222222223
+  },
+  "VIH": {
+    "latitude": 38.15407222222222,
+    "longitude": -91.70677222222223
+  },
+  "JOT": {
+    "latitude": 41.546419444444446,
+    "longitude": -88.3184111111111
+  },
+  "TWAIN": {
+    "latitude": 39.672374999999995,
+    "longitude": -91.44309166666667
+  },
+  "BURKK": {
+    "latitude": 40.96911111111111,
+    "longitude": -91.23091388888889
+  },
+  "ONFRE": {
+    "latitude": 37.13590555555555,
+    "longitude": -92.08118055555555
+  },
+  "IOW": {
+    "latitude": 41.51896111111111,
+    "longitude": -91.61325277777777
+  },
+  "RUKOC": {
+    "latitude": 36.608583333333335,
+    "longitude": -94.44517222222223
+  },
+  "SGF": {
+    "latitude": 37.35594722222223,
+    "longitude": -93.33404166666666
+  },
+  "DARME": {
+    "latitude": 37.896741666666664,
+    "longitude": -87.43503333333334
+  },
+  "SCAWT": {
+    "latitude": 38.34489444444445,
+    "longitude": -94.04218888888889
+  },
+  "PLESS": {
+    "latitude": 37.809577777777776,
+    "longitude": -88.9631888888889
+  },
+  "KOOOP": {
+    "latitude": 38.69190555555555,
+    "longitude": -91.74258055555556
+  },
+  "SAPPY": {
+    "latitude": 38.899794444444446,
+    "longitude": -92.276925
+  },
+  "WULBO": {
+    "latitude": 32.33864166666667,
+    "longitude": -88.75871111111111
+  },
+  "IBKOJ": {
+    "latitude": 37.83999722222222,
+    "longitude": -93.74991666666666
+  },
+  "BACNN": {
+    "latitude": 40.17350555555555,
+    "longitude": -94.29684166666667
+  },
+  "COTON": {
+    "latitude": 42.31991666666667,
+    "longitude": -89.31227777777778
+  },
+  "FONAB": {
+    "latitude": 43.64744722222222,
+    "longitude": -87.64989166666668
+  },
+  "PISIE": {
+    "latitude": 33.310991666666666,
+    "longitude": -87.81171388888889
+  },
+  "KK45K": {
+    "latitude": 37.5,
+    "longitude": -90.0
+  },
+  "BDF": {
+    "latitude": 41.15980555555556,
+    "longitude": -89.58787222222222
+  },
+  "TWRAY": {
+    "latitude": 37.60155555555556,
+    "longitude": -91.01459166666666
+  },
+  "WADKI": {
+    "latitude": 35.9321,
+    "longitude": -88.190875
+  },
+  "KK54G": {
+    "latitude": 39.0,
+    "longitude": -94.0
+  },
+  "JOLIB": {
+    "latitude": 34.749075,
+    "longitude": -88.77478333333333
+  },
+  "GIJ": {
+    "latitude": 41.76861111111111,
+    "longitude": -86.31845
+  },
+  "KK54K": {
+    "latitude": 39.0,
+    "longitude": -90.0
+  },
+  "SHAIN": {
+    "latitude": 41.64361111111111,
+    "longitude": -89.13583333333334
+  },
+  "LANKY": {
+    "latitude": 36.48715833333333,
+    "longitude": -88.2145388888889
+  },
+  "ENL": {
+    "latitude": 38.419999999999995,
+    "longitude": -89.15899722222223
+  },
+  "WILUS": {
+    "latitude": 34.786163888888886,
+    "longitude": -91.47013333333334
+  },
+  "BUM": {
+    "latitude": 38.272080555555554,
+    "longitude": -94.48826111111111
+  },
+  "GORDO": {
+    "latitude": 39.841769444444445,
+    "longitude": -88.51203055555555
+  },
+  "MAHER": {
+    "latitude": 37.77722222222222,
+    "longitude": -92.07527777777777
+  },
+  "HGGRD": {
+    "latitude": 36.81453055555555,
+    "longitude": -87.63855277777779
+  },
+  "SAAGS": {
+    "latitude": 39.46783888888889,
+    "longitude": -93.28636388888889
+  },
+  "ZESMO": {
+    "latitude": 32.53118611111111,
+    "longitude": -90.12888888888888
+  },
+  "POKHY": {
+    "latitude": 39.319947222222225,
+    "longitude": -87.49068888888888
+  },
+  "COLIE": {
+    "latitude": 40.280588888888886,
+    "longitude": -92.18386944444445
+  },
+  "KI57O": {
+    "latitude": 39.5,
+    "longitude": -86.0
+  },
+  "TEOCK": {
+    "latitude": 33.592038888888894,
+    "longitude": -90.08524444444444
+  },
+  "CLOUT": {
+    "latitude": 33.48313888888889,
+    "longitude": -88.87227777777777
+  },
+  "SPI": {
+    "latitude": 39.83983333333334,
+    "longitude": -89.67773611111112
+  },
+  "KK57I": {
+    "latitude": 39.5,
+    "longitude": -92.0
+  },
+  "KG66I": {
+    "latitude": 41.0,
+    "longitude": -92.0
+  },
+  "BAQXI": {
+    "latitude": 34.49301111111111,
+    "longitude": -92.34684999999999
+  },
+  "IIU": {
+    "latitude": 38.10346388888889,
+    "longitude": -85.57743611111111
+  },
+  "OYUGI": {
+    "latitude": 33.78352777777778,
+    "longitude": -91.53920833333333
+  },
+  "PMM": {
+    "latitude": 42.466036111111116,
+    "longitude": -86.1048111111111
+  },
+  "STL": {
+    "latitude": 38.86068888888889,
+    "longitude": -90.48236944444444
+  },
+  "GIRME": {
+    "latitude": 36.96511111111111,
+    "longitude": -86.19947777777779
+  },
+  "IRK": {
+    "latitude": 40.13516666666666,
+    "longitude": -92.59171388888889
+  },
+  "WASKA": {
+    "latitude": 36.39535,
+    "longitude": -89.89343333333333
+  },
+  "KG75M": {
+    "latitude": 42.5,
+    "longitude": -88.0
+  },
+  "PXV": {
+    "latitude": 37.92831944444444,
+    "longitude": -87.76238055555555
+  },
+  "KK57G": {
+    "latitude": 39.5,
+    "longitude": -94.0
+  },
+  "TIYUR": {
+    "latitude": 36.961875000000006,
+    "longitude": -91.47899166666667
+  },
+  "CUDOR": {
+    "latitude": 32.940530555555554,
+    "longitude": -112.79163333333334
+  },
+  "KA12O": {
+    "latitude": 32.0,
+    "longitude": -112.0
+  },
+  "IWEDU": {
+    "latitude": 34.20854722222222,
+    "longitude": -109.25219166666666
+  },
+  "KA21Q": {
+    "latitude": 33.5,
+    "longitude": -110.0
+  },
+  "FOUTZ": {
+    "latitude": 32.48247777777778,
+    "longitude": -111.69595277777778
+  },
+  "TBC": {
+    "latitude": 36.12131111111111,
+    "longitude": -111.26958888888889
+  },
+  "COLAN": {
+    "latitude": 32.43333333333333,
+    "longitude": -110.34166666666667
+  },
+  "ZOMAP": {
+    "latitude": 32.41672222222222,
+    "longitude": -111.20708333333333
+  },
+  "GOYEB": {
+    "latitude": 33.447694444444444,
+    "longitude": -111.74650277777778
+  },
+  "SPINK": {
+    "latitude": 33.43552777777777,
+    "longitude": -113.94625277777779
+  },
+  "HAPPN": {
+    "latitude": 34.37666111111111,
+    "longitude": -111.6002361111111
+  },
+  "CASTI": {
+    "latitude": 35.432677777777776,
+    "longitude": -110.21986111111111
+  },
+  "ZOSWO": {
+    "latitude": 34.24691111111111,
+    "longitude": -111.3871
+  },
+  "JOSUR": {
+    "latitude": 32.026558333333334,
+    "longitude": -110.73247500000001
+  },
+  "FTHLS": {
+    "latitude": 33.76819444444445,
+    "longitude": -110.36356666666666
+  },
+  "ZULOM": {
+    "latitude": 32.888416666666664,
+    "longitude": -109.67687777777778
+  },
+  "IPRC": {
+    "latitude": 34.64393333333333,
+    "longitude": -112.42951111111111
+  },
+  "GEENO": {
+    "latitude": 33.70535,
+    "longitude": -111.735475
+  },
+  "PERRO": {
+    "latitude": 31.464141666666666,
+    "longitude": -110.14208333333335
+  },
+  "POTER": {
+    "latitude": 32.90985555555555,
+    "longitude": -112.1638638888889
+  },
+  "DOODL": {
+    "latitude": 33.74964444444444,
+    "longitude": -112.74647222222222
+  },
+  "DALKY": {
+    "latitude": 32.82817222222223,
+    "longitude": -111.0967
+  },
+  "KNOBB": {
+    "latitude": 33.69866111111111,
+    "longitude": -111.90933611111112
+  },
+  "OLS": {
+    "latitude": 31.414955555555554,
+    "longitude": -110.84897222222222
+  },
+  "NOCHI": {
+    "latitude": 32.03338888888889,
+    "longitude": -109.75820277777778
+  },
+  "PARME": {
+    "latitude": 38.06200277777778,
+    "longitude": -116.91518055555557
+  },
+  "VICMA": {
+    "latitude": 31.950805555555554,
+    "longitude": -106.37601388888888
+  },
+  "OXAME": {
+    "latitude": 32.340941666666666,
+    "longitude": -107.22986944444445
+  },
+  "GREBE": {
+    "latitude": 33.219100000000005,
+    "longitude": -108.16366666666667
+  },
+  "KA12S": {
+    "latitude": 32.0,
+    "longitude": -108.0
+  },
+  "JSSUA": {
+    "latitude": 34.384283333333336,
+    "longitude": -108.01206111111111
+  },
+  "JELIG": {
+    "latitude": 32.34536111111111,
+    "longitude": -107.9708888888889
+  },
+  "MAXXO": {
+    "latitude": 34.39397777777778,
+    "longitude": -106.69660555555556
+  },
+  "FODSU": {
+    "latitude": 33.14321388888889,
+    "longitude": -106.15608611111112
+  },
+  "ESPAN": {
+    "latitude": 36.119819444444445,
+    "longitude": -106.35703888888888
+  },
+  "HRDRK": {
+    "latitude": 34.64079722222222,
+    "longitude": -106.64633888888889
+  },
+  "KA15U": {
+    "latitude": 32.5,
+    "longitude": -106.0
+  },
+  "PRISO": {
+    "latitude": 31.95045,
+    "longitude": -106.19152222222223
+  },
+  "CETOX": {
+    "latitude": 32.88318611111111,
+    "longitude": -107.15011111111112
+  },
+  "JUPTR": {
+    "latitude": 34.353477777777776,
+    "longitude": -105.88850000000001
+  },
+  "IRULY": {
+    "latitude": 34.66116666666667,
+    "longitude": -107.71733333333333
+  },
+  "GALDE": {
+    "latitude": 33.177305555555556,
+    "longitude": -107.295875
+  },
+  "JEVOS": {
+    "latitude": 32.92177777777778,
+    "longitude": -107.8382361111111
+  },
+  "ABQ": {
+    "latitude": 35.043794444444444,
+    "longitude": -106.8163111111111
+  },
+  "FANNY": {
+    "latitude": 31.513508333333334,
+    "longitude": -105.81477222222222
+  },
+  "PONUE": {
+    "latitude": 31.30102777777778,
+    "longitude": -104.7487888888889
+  },
+  "JENOM": {
+    "latitude": 33.33149166666667,
+    "longitude": -104.42244444444445
+  },
+  "CV": {
+    "latitude": 32.26679166666666,
+    "longitude": -104.3385111111111
+  },
+  "JOFRE": {
+    "latitude": 34.431555555555555,
+    "longitude": -104.90193333333333
+  },
+  "ATS": {
+    "latitude": 32.8527,
+    "longitude": -104.46051666666666
+  },
+  "CRTTR": {
+    "latitude": 34.7,
+    "longitude": -104.5
+  },
+  "GINGR": {
+    "latitude": 32.861466666666665,
+    "longitude": -105.58819444444444
+  },
+  "BDEGA": {
+    "latitude": 37.823025,
+    "longitude": -122.59219999999999
+  },
+  "KO60C": {
+    "latitude": 40.0,
+    "longitude": -124.0
+  },
+  "WIPOG": {
+    "latitude": 42.071219444444445,
+    "longitude": -124.22820277777778
+  },
+  "KL24E": {
+    "latitude": 34.0,
+    "longitude": -122.0
+  },
+  "HUNTS": {
+    "latitude": 36.92916666666667,
+    "longitude": -123.56666666666666
+  },
+  "WISEP": {
+    "latitude": 42.25011111111111,
+    "longitude": -123.35488055555555
+  },
+  "EDADE": {
+    "latitude": 32.99993888888889,
+    "longitude": -119.14923611111112
+  },
+  "D131V": {
+    "latitude": 36.351305555555555,
+    "longitude": -121.36484444444444
+  },
+  "PEBLL": {
+    "latitude": 39.26127777777778,
+    "longitude": -124.20658055555556
+  },
+  "KL27E": {
+    "latitude": 34.5,
+    "longitude": -122.0
+  },
+  "OAK": {
+    "latitude": 37.72592222222222,
+    "longitude": -122.22358611111112
+  },
+  "DAWNY": {
+    "latitude": 34.63941944444444,
+    "longitude": -120.47215555555556
+  },
+  "KS78C": {
+    "latitude": 43.0,
+    "longitude": -124.0
+  },
+  "PASIF": {
+    "latitude": 37.193888888888885,
+    "longitude": -123.13333333333334
+  },
+  "ROOTY": {
+    "latitude": 42.47215555555556,
+    "longitude": -124.21063055555555
+  },
+  "SRRRA": {
+    "latitude": 34.34793055555556,
+    "longitude": -119.94017500000001
+  },
+  "KO33E": {
+    "latitude": 35.5,
+    "longitude": -122.0
+  },
+  "KO36C": {
+    "latitude": 36.0,
+    "longitude": -124.0
+  },
+  "PAINT": {
+    "latitude": 38.0,
+    "longitude": -125.5
+  },
+  "KL30E": {
+    "latitude": 35.0,
+    "longitude": -122.0
+  },
+  "ZONSO": {
+    "latitude": 37.77152777777778,
+    "longitude": -124.36238055555555
+  },
+  "SJC": {
+    "latitude": 37.37471111111111,
+    "longitude": -121.94466944444444
+  },
+  "YAPUB": {
+    "latitude": 38.322275000000005,
+    "longitude": -122.94907500000001
+  },
+  "ZUVKU": {
+    "latitude": 40.87613888888889,
+    "longitude": -124.03903611111112
+  },
+  "MARLC": {
+    "latitude": 36.932472222222216,
+    "longitude": -121.78861111111111
+  },
+  "NOKVE": {
+    "latitude": 39.32920555555556,
+    "longitude": -123.79499722222222
+  },
+  "NIPFO": {
+    "latitude": 39.51693888888889,
+    "longitude": -123.84266944444444
+  },
+  "OINGO": {
+    "latitude": 34.34341666666667,
+    "longitude": -120.46633333333334
+  },
+  "FIPUM": {
+    "latitude": 38.845733333333335,
+    "longitude": -122.90781944444446
+  },
+  "HEXIT": {
+    "latitude": 40.884655555555554,
+    "longitude": -124.23575833333334
+  },
+  "CIGCA": {
+    "latitude": 41.611000000000004,
+    "longitude": -124.29099444444444
+  },
+  "WUXOR": {
+    "latitude": 35.20836111111112,
+    "longitude": -100.39763055555557
+  },
+  "SLOWR": {
+    "latitude": 39.304066666666664,
+    "longitude": -97.52797222222222
+  },
+  "LISNY": {
+    "latitude": 32.54372222222222,
+    "longitude": -103.04470555555555
+  },
+  "FEGEX": {
+    "latitude": 32.88664722222222,
+    "longitude": -103.48783888888889
+  },
+  "YOKGU": {
+    "latitude": 33.24823611111111,
+    "longitude": -102.79593888888888
+  },
+  "FAVON": {
+    "latitude": 33.583333333333336,
+    "longitude": -102.56666666666666
+  },
+  "LEYIS": {
+    "latitude": 31.296875,
+    "longitude": -103.20969444444445
+  },
+  "KAPWU": {
+    "latitude": 33.661005555555555,
+    "longitude": -102.03480555555555
+  },
+  "LOPEY": {
+    "latitude": 31.92710277777778,
+    "longitude": -102.40479166666667
+  },
+  "ZUBUM": {
+    "latitude": 33.662194444444445,
+    "longitude": -102.52717777777778
+  },
+  "YOGSU": {
+    "latitude": 31.95264722222222,
+    "longitude": -102.64248611111111
+  },
+  "COLRA": {
+    "latitude": 34.034930555555555,
+    "longitude": -98.74063333333334
+  },
+  "BECAT": {
+    "latitude": 34.348736111111116,
+    "longitude": -99.07236944444445
+  },
+  "WEDNI": {
+    "latitude": 34.81281111111111,
+    "longitude": -99.28387222222221
+  },
+  "CIYAL": {
+    "latitude": 33.03649166666666,
+    "longitude": -98.80270555555555
+  },
+  "LUDWG": {
+    "latitude": 34.03408333333333,
+    "longitude": -98.60210833333333
+  },
+  "BUDDD": {
+    "latitude": 34.37511111111111,
+    "longitude": -97.43933333333334
+  },
+  "ZINGG": {
+    "latitude": 33.040949999999995,
+    "longitude": -97.02544444444445
+  },
+  "TYEES": {
+    "latitude": 32.44577777777778,
+    "longitude": -99.99472222222222
+  },
+  "WNSTR": {
+    "latitude": 33.96924444444445,
+    "longitude": -97.59283611111111
+  },
+  "ANTHY": {
+    "latitude": 31.310188888888888,
+    "longitude": -100.54300277777777
+  },
+  "HEPLO": {
+    "latitude": 32.44609166666666,
+    "longitude": -98.791375
+  },
+  "EWUYI": {
+    "latitude": 31.331222222222223,
+    "longitude": -100.16741944444445
+  },
+  "UGABE": {
+    "latitude": 31.8,
+    "longitude": -100.1
+  },
+  "MUSKS": {
+    "latitude": 34.84673055555556,
+    "longitude": -97.41089444444445
+  },
+  "BGS": {
+    "latitude": 32.38558888888889,
+    "longitude": -101.48368333333333
+  },
+  "SPPAD": {
+    "latitude": 31.41258333333333,
+    "longitude": -98.43033333333334
+  },
+  "CAGAD": {
+    "latitude": 34.31041388888889,
+    "longitude": -96.789025
+  },
+  "DUFFA": {
+    "latitude": 32.05954444444444,
+    "longitude": -98.18173611111112
+  },
+  "ZOPUN": {
+    "latitude": 33.56846666666667,
+    "longitude": -101.52786666666667
+  },
+  "SPAMS": {
+    "latitude": 35.133427777777776,
+    "longitude": -97.69959444444444
+  },
+  "FEMLI": {
+    "latitude": 32.997194444444446,
+    "longitude": -99.73526666666666
+  },
+  "FILED": {
+    "latitude": 33.59308333333333,
+    "longitude": -100.36435555555555
+  },
+  "RUGPY": {
+    "latitude": 31.29336388888889,
+    "longitude": -101.49325833333333
+  },
+  "CDS": {
+    "latitude": 34.36906388888889,
+    "longitude": -100.28902777777778
+  },
+  "ODOYU": {
+    "latitude": 34.85,
+    "longitude": -100.3
+  },
+  "CELPO": {
+    "latitude": 33.509211111111114,
+    "longitude": -97.76468611111112
+  },
+  "CELAM": {
+    "latitude": 31.555333333333333,
+    "longitude": -96.530825
+  },
+  "FIATT": {
+    "latitude": 32.05154444444444,
+    "longitude": -96.35086666666666
+  },
+  "HOWDY": {
+    "latitude": 32.38506666666667,
+    "longitude": -96.4452
+  },
+  "JKIID": {
+    "latitude": 34.15467777777778,
+    "longitude": -95.6497138888889
+  },
+  "ADDVL": {
+    "latitude": 33.37175833333333,
+    "longitude": -96.36123055555555
+  },
+  "AGISM": {
+    "latitude": 34.122461111111114,
+    "longitude": -95.54230833333334
+  },
+  "AHAMU": {
+    "latitude": 34.70269722222223,
+    "longitude": -95.86426666666667
+  },
+  "CADUB": {
+    "latitude": 35.13299444444444,
+    "longitude": -95.76764722222222
+  },
+  "MFD": {
+    "latitude": 40.868611111111115,
+    "longitude": -82.59096111111111
+  },
+  "ALPHE": {
+    "latitude": 42.4359,
+    "longitude": -84.50991666666667
+  },
+  "ACO": {
+    "latitude": 41.10790277777778,
+    "longitude": -81.201525
+  },
+  "DACOS": {
+    "latitude": 38.204213888888894,
+    "longitude": -84.24104166666666
+  },
+  "LULSE": {
+    "latitude": 45.49572222222222,
+    "longitude": -83.55810833333334
+  },
+  "UMEFA": {
+    "latitude": 39.33421666666667,
+    "longitude": -82.12994722222221
+  },
+  "DAYYY": {
+    "latitude": 44.169444444444444,
+    "longitude": -84.37305555555555
+  },
+  "ZIEBR": {
+    "latitude": 37.632844444444444,
+    "longitude": -82.7529888888889
+  },
+  "DAFLU": {
+    "latitude": 42.379083333333334,
+    "longitude": -82.68877777777779
+  },
+  "LAN": {
+    "latitude": 42.717394444444444,
+    "longitude": -84.69758333333334
+  },
+  "GICNI": {
+    "latitude": 45.768652777777774,
+    "longitude": -84.68566111111112
+  },
+  "HOMVO": {
+    "latitude": 45.308305555555556,
+    "longitude": -85.22353333333334
+  },
+  "DUTSH": {
+    "latitude": 41.140652777777774,
+    "longitude": -82.55352222222221
+  },
+  "MIE": {
+    "latitude": 40.23729166666667,
+    "longitude": -85.39403611111112
+  },
+  "DEANI": {
+    "latitude": 43.71871111111111,
+    "longitude": -85.77477777777777
+  },
+  "DJB": {
+    "latitude": 41.35813888888889,
+    "longitude": -82.16219444444445
+  },
+  "NEROE": {
+    "latitude": 44.30342777777778,
+    "longitude": -87.48246944444445
+  },
+  "FLM": {
+    "latitude": 38.64944166666667,
+    "longitude": -84.31060277777777
+  },
+  "ROD": {
+    "latitude": 40.288,
+    "longitude": -84.04309722222222
+  },
+  "MBS": {
+    "latitude": 43.53164722222222,
+    "longitude": -84.07730277777777
+  },
+  "TAYOS": {
+    "latitude": 37.63954444444445,
+    "longitude": -83.58816666666667
+  },
+  "BROKK": {
+    "latitude": 42.331388888888895,
+    "longitude": -81.58193888888889
+  },
+  "JAAJA": {
+    "latitude": 42.666666666666664,
+    "longitude": -81.26666666666667
+  },
+  "MAARC": {
+    "latitude": 45.56090833333333,
+    "longitude": -87.25733333333334
+  },
+  "WWSHR": {
+    "latitude": 41.34302777777778,
+    "longitude": -82.0516
+  },
+  "WIZRD": {
+    "latitude": 39.574508333333334,
+    "longitude": -83.65641944444445
+  },
+  "BEWEL": {
+    "latitude": 42.28896666666667,
+    "longitude": -80.74513611111111
+  },
+  "SVM": {
+    "latitude": 42.40864166666667,
+    "longitude": -83.59402777777777
+  },
+  "DUNKS": {
+    "latitude": 42.427411111111105,
+    "longitude": -84.19424444444445
+  },
+  "KEEHO": {
+    "latitude": 41.91759444444444,
+    "longitude": -81.83095555555555
+  },
+  "APE": {
+    "latitude": 40.151063888888885,
+    "longitude": -82.58829999999999
+  },
+  "RUBKI": {
+    "latitude": 44.248561111111115,
+    "longitude": -82.26879166666667
+  },
+  "BAPKE": {
+    "latitude": 45.96245833333334,
+    "longitude": -84.48788888888889
+  },
+  "HOCKE": {
+    "latitude": 43.26205,
+    "longitude": -82.71063055555555
+  },
+  "CRL": {
+    "latitude": 42.048027777777776,
+    "longitude": -83.45757222222223
+  },
+  "OYVUK": {
+    "latitude": 44.435177777777774,
+    "longitude": -86.06633333333333
+  },
+  "GRB": {
+    "latitude": 44.55516111111111,
+    "longitude": -88.19485833333334
+  },
+  "NOTAP": {
+    "latitude": 45.208333333333336,
+    "longitude": -82.47508333333333
+  },
+  "FNT": {
+    "latitude": 42.966772222222225,
+    "longitude": -83.74716666666667
+  },
+  "LARIC": {
+    "latitude": 39.56238333333333,
+    "longitude": -82.34845555555555
+  },
+  "SLLAP": {
+    "latitude": 43.45008333333334,
+    "longitude": -84.93883055555555
+  },
+  "DORET": {
+    "latitude": 41.80163888888889,
+    "longitude": -80.58462222222222
+  },
+  "TWIGS": {
+    "latitude": 42.80947222222222,
+    "longitude": -82.55286111111111
+  },
+  "CATTS": {
+    "latitude": 39.303219444444444,
+    "longitude": -96.15380277777778
+  },
+  "CUXIG": {
+    "latitude": 46.454075,
+    "longitude": -84.3331361111111
+  },
+  "ULUTO": {
+    "latitude": 46.30444444444444,
+    "longitude": -84.09472222222222
+  },
+  "YXZ": {
+    "latitude": 47.950541666666666,
+    "longitude": -84.82311388888888
+  },
+  "CATGA": {
+    "latitude": 46.472094444444444,
+    "longitude": -84.46709166666668
+  },
+  "HVQ": {
+    "latitude": 38.349675000000005,
+    "longitude": -81.7699138888889
+  },
+  "MIGLO": {
+    "latitude": 44.63583333333333,
+    "longitude": -76.21052777777778
+  },
+  "KAPUX": {
+    "latitude": 45.08068333333334,
+    "longitude": -79.74985277777778
+  },
+  "IKNAV": {
+    "latitude": 42.96194444444445,
+    "longitude": -78.96777777777778
+  },
+  "DERLO": {
+    "latitude": 43.06638888888889,
+    "longitude": -81.09527777777777
+  },
+  "CSN": {
+    "latitude": 38.64120277777778,
+    "longitude": -77.8655
+  },
+  "ROBPO": {
+    "latitude": 40.40275555555555,
+    "longitude": -78.28041666666667
+  },
+  "YMX": {
+    "latitude": 45.888333333333335,
+    "longitude": -74.37583333333333
+  },
+  "IJHEV": {
+    "latitude": 44.31534444444444,
+    "longitude": -72.92814166666668
+  },
+  "MOL": {
+    "latitude": 37.900525,
+    "longitude": -79.10688888888889
+  },
+  "BKW": {
+    "latitude": 37.780499999999996,
+    "longitude": -81.12345555555555
+  },
+  "KB90C": {
+    "latitude": 45.0,
+    "longitude": -72.0
+  },
+  "KLYNE": {
+    "latitude": 40.69846111111111,
+    "longitude": -83.312275
+  },
+  "YYZ": {
+    "latitude": 43.65801944444444,
+    "longitude": -79.63143055555555
+  },
+  "SIKBO": {
+    "latitude": 43.65361111111111,
+    "longitude": -79.34916666666666
+  },
+  "EBDUS": {
+    "latitude": 44.489666666666665,
+    "longitude": -77.62533333333333
+  },
+  "FAK": {
+    "latitude": 37.528508333333335,
+    "longitude": -77.82821944444444
+  },
+  "CAGED": {
+    "latitude": 39.900675,
+    "longitude": -79.75880555555555
+  },
+  "BTV": {
+    "latitude": 44.397105555555555,
+    "longitude": -73.18263611111112
+  },
+  "AHPAH": {
+    "latitude": 43.305277777777775,
+    "longitude": -78.12641944444444
+  },
+  "LUNFI": {
+    "latitude": 44.692344444444444,
+    "longitude": -72.12490277777778
+  },
+  "BAMPE": {
+    "latitude": 43.98791666666667,
+    "longitude": -75.91537777777778
+  },
+  "BUGSY": {
+    "latitude": 44.72265277777778,
+    "longitude": -74.14161111111112
+  },
+  "PBERG": {
+    "latitude": 44.70173611111112,
+    "longitude": -73.52282777777778
+  },
+  "DEDKI": {
+    "latitude": 43.69027777777777,
+    "longitude": -78.71833333333333
+  },
+  "BUF": {
+    "latitude": 42.92899722222222,
+    "longitude": -78.64634166666667
+  },
+  "JADAD": {
+    "latitude": 36.93727222222222,
+    "longitude": -76.06941388888889
+  },
+  "RUSSL": {
+    "latitude": 37.49698611111111,
+    "longitude": -77.36906944444443
+  },
+  "ZATSI": {
+    "latitude": 44.97166111111111,
+    "longitude": -74.81384166666666
+  },
+  "DMACK": {
+    "latitude": 41.785758333333334,
+    "longitude": -77.55192222222222
+  },
+  "TULEG": {
+    "latitude": 43.731902777777776,
+    "longitude": -76.71939722222223
+  },
+  "ELZ": {
+    "latitude": 42.089647222222226,
+    "longitude": -77.99955833333334
+  },
+  "KATRN": {
+    "latitude": 38.681638888888884,
+    "longitude": -77.02065833333333
+  },
+  "MRB": {
+    "latitude": 39.38572222222222,
+    "longitude": -77.84855555555555
+  },
+  "CCV": {
+    "latitude": 37.34753888888889,
+    "longitude": -75.99765277777777
+  },
+  "YOW": {
+    "latitude": 45.44170277777778,
+    "longitude": -75.89693333333334
+  },
+  "GRACE": {
+    "latitude": 40.85685,
+    "longitude": -79.80058888888888
+  },
+  "DCA": {
+    "latitude": 38.85952777777778,
+    "longitude": -77.03643611111112
+  },
+  "HOXIE": {
+    "latitude": 41.86511111111111,
+    "longitude": -77.85260555555556
+  },
+  "CETAK": {
+    "latitude": 44.35814444444445,
+    "longitude": -73.22716666666666
+  },
+  "KENLU": {
+    "latitude": 44.32138888888889,
+    "longitude": -79.21472222222222
+  },
+  "ROC": {
+    "latitude": 43.117958333333334,
+    "longitude": -77.67294444444445
+  },
+  "MITAH": {
+    "latitude": 44.68911666666666,
+    "longitude": -74.50482777777778
+  },
+  "WOZEE": {
+    "latitude": 42.933791666666664,
+    "longitude": -78.73878888888889
+  },
+  "RHODE": {
+    "latitude": 38.255066666666664,
+    "longitude": -79.3790361111111
+  },
+  "KENYA": {
+    "latitude": 37.32347777777778,
+    "longitude": -81.54662222222223
+  },
+  "RIC": {
+    "latitude": 37.50235,
+    "longitude": -77.32027777777778
+  },
+  "CAPKO": {
+    "latitude": 38.7057,
+    "longitude": -76.74515
+  },
+  "ART": {
+    "latitude": 43.952130555555556,
+    "longitude": -76.06462777777777
+  },
+  "JHW": {
+    "latitude": 42.18860833333333,
+    "longitude": -79.12130833333333
+  },
+  "HCM": {
+    "latitude": 37.44866111111111,
+    "longitude": -76.71135277777778
+  },
+  "SANIN": {
+    "latitude": 44.07805555555556,
+    "longitude": -77.43194444444445
+  },
+  "BFD": {
+    "latitude": 41.786386111111106,
+    "longitude": -78.61935
+  },
+  "RIDDE": {
+    "latitude": 34.147841666666665,
+    "longitude": -94.46548333333334
+  },
+  "RUVOC": {
+    "latitude": 33.73415,
+    "longitude": -94.94906111111112
+  },
+  "WOVAS": {
+    "latitude": 32.508380555555554,
+    "longitude": -91.79970555555555
+  },
+  "PISNE": {
+    "latitude": 31.878,
+    "longitude": -92.88132777777777
+  },
+  "INNUP": {
+    "latitude": 33.82480833333334,
+    "longitude": -93.6826638888889
+  },
+  "PIVIE": {
+    "latitude": 33.701347222222225,
+    "longitude": -94.85719166666667
+  },
+  "WEBBY": {
+    "latitude": 32.68736388888889,
+    "longitude": -93.20355
+  },
+  "HICNY": {
+    "latitude": 32.516108333333335,
+    "longitude": -92.48936388888889
+  },
+  "ZIROX": {
+    "latitude": 33.26246111111111,
+    "longitude": -93.89895555555556
+  },
+  "WYATE": {
+    "latitude": 32.52911388888889,
+    "longitude": -94.89992500000001
+  },
+  "WITSI": {
+    "latitude": 32.90391944444444,
+    "longitude": -94.94774722222222
+  },
+  "AZGUF": {
+    "latitude": 31.73926666666667,
+    "longitude": -94.1384
+  },
+  "PGO": {
+    "latitude": 34.68046388888889,
+    "longitude": -94.60900277777777
+  },
+  "BAL": {
+    "latitude": 39.17106388888889,
+    "longitude": -76.66125555555556
+  },
+  "KW33Y": {
+    "latitude": 35.5,
+    "longitude": -76.0
+  },
+  "KIYEK": {
+    "latitude": 35.03355,
+    "longitude": -77.05860277777778
+  },
+  "HATVE": {
+    "latitude": 35.77582777777778,
+    "longitude": -75.69245555555555
+  },
+  "LYH": {
+    "latitude": 37.254577777777776,
+    "longitude": -79.23638055555556
+  },
+  "DENNY": {
+    "latitude": 37.866708333333335,
+    "longitude": -79.73715277777778
+  },
+  "DILNN": {
+    "latitude": 38.27236111111111,
+    "longitude": -79.73119722222222
+  },
+  "MSTRS": {
+    "latitude": 33.80343055555555,
+    "longitude": -82.61985555555555
+  },
+  "BEYLO": {
+    "latitude": 33.30608333333333,
+    "longitude": -83.093425
+  },
+  "YOKUS": {
+    "latitude": 34.97043333333333,
+    "longitude": -86.07367777777777
+  },
+  "SEMAN": {
+    "latitude": 32.77249166666667,
+    "longitude": -85.96373333333334
+  },
+  "PINKS": {
+    "latitude": 34.80746388888888,
+    "longitude": -86.76235833333334
+  },
+  "JODVU": {
+    "latitude": 33.512077777777776,
+    "longitude": -82.25397777777778
+  },
+  "KURRU": {
+    "latitude": 36.80104444444444,
+    "longitude": -81.82271666666666
+  },
+  "OSILY": {
+    "latitude": 34.95914722222223,
+    "longitude": -85.01144722222222
+  },
+  "IRQ": {
+    "latitude": 33.70735277777778,
+    "longitude": -82.1620638888889
+  },
+  "POSIY": {
+    "latitude": 33.45370833333334,
+    "longitude": -84.987025
+  },
+  "KT21O": {
+    "latitude": 33.5,
+    "longitude": -86.0
+  },
+  "YILUG": {
+    "latitude": 33.905166666666666,
+    "longitude": -87.4338
+  },
+  "TAFOC": {
+    "latitude": 35.106477777777776,
+    "longitude": -84.02280555555555
+  },
+  "UBHAF": {
+    "latitude": 35.498961111111115,
+    "longitude": -86.09368611111111
+  },
+  "PACKO": {
+    "latitude": 36.78499166666666,
+    "longitude": -82.71162777777778
+  },
+  "PITTE": {
+    "latitude": 35.83553888888889,
+    "longitude": -83.38046666666666
+  },
+  "ATL": {
+    "latitude": 33.62907777777778,
+    "longitude": -84.43506388888889
+  },
+  "WELAN": {
+    "latitude": 32.55403333333333,
+    "longitude": -87.40051666666668
+  },
+  "RIPNE": {
+    "latitude": 32.493383333333334,
+    "longitude": -87.92178055555556
+  },
+  "WANEB": {
+    "latitude": 34.00170833333333,
+    "longitude": -86.024125
+  },
+  "BESGE": {
+    "latitude": 35.47170833333333,
+    "longitude": -82.517
+  },
+  "SOTWO": {
+    "latitude": 33.04483333333333,
+    "longitude": -84.42312222222223
+  },
+  "RUNIC": {
+    "latitude": 34.49366944444444,
+    "longitude": -84.80059722222222
+  },
+  "BLANE": {
+    "latitude": 33.906461111111106,
+    "longitude": -82.15927777777779
+  },
+  "CLT": {
+    "latitude": 35.19038888888888,
+    "longitude": -80.95175277777778
+  },
+  "ZITGO": {
+    "latitude": 36.32698333333334,
+    "longitude": -84.75291388888888
+  },
+  "HOBBI": {
+    "latitude": 34.46623055555556,
+    "longitude": -86.67788611111112
+  },
+  "RESPE": {
+    "latitude": 35.59182222222223,
+    "longitude": -84.92008611111112
+  },
+  "OMKUQ": {
+    "latitude": 36.43062777777777,
+    "longitude": -82.95353055555556
+  },
+  "VILRO": {
+    "latitude": 45.615833333333335,
+    "longitude": -72.71555555555555
+  },
+  "PAATS": {
+    "latitude": 39.388083333333334,
+    "longitude": -75.56318333333333
+  },
+  "GSO": {
+    "latitude": 36.04569166666666,
+    "longitude": -79.976375
+  },
+  "ASBUR": {
+    "latitude": 37.82344722222223,
+    "longitude": -80.46428888888889
+  },
+  "PERRI": {
+    "latitude": 38.29735833333333,
+    "longitude": -80.30141944444445
+  },
+  "ROA": {
+    "latitude": 37.34346388888889,
+    "longitude": -80.07039722222221
+  },
+  "EFVEV": {
+    "latitude": 45.977916666666665,
+    "longitude": -83.4932388888889
+  },
+  "YSB": {
+    "latitude": 46.629305555555554,
+    "longitude": -80.79823055555555
+  },
+  "ZUGTO": {
+    "latitude": 36.94039444444444,
+    "longitude": -84.77976111111111
+  },
+  "VPAVA": {
+    "latitude": 34.95,
+    "longitude": -77.275
+  },
+  "ARGAL": {
+    "latitude": 36.17128611111111,
+    "longitude": -78.16536388888889
+  },
+  "BEPUP": {
+    "latitude": 46.70023888888889,
+    "longitude": -82.55619722222222
+  },
+  "YTS": {
+    "latitude": 48.57192777777778,
+    "longitude": -81.36995555555555
+  },
+  "SBV": {
+    "latitude": 36.675038888888885,
+    "longitude": -79.0145
+  },
+  "HOMOL": {
+    "latitude": 33.96595833333333,
+    "longitude": -81.07957499999999
+  },
+  "SLOJO": {
+    "latitude": 34.64619722222222,
+    "longitude": -80.65711944444445
+  },
+  "FLO": {
+    "latitude": 34.23296944444445,
+    "longitude": -79.65716111111112
+  },
+  "MOBFO": {
+    "latitude": 35.950250000000004,
+    "longitude": -78.54533888888889
+  },
+  "RDU": {
+    "latitude": 35.87272222222222,
+    "longitude": -78.78341666666667
+  },
+  "TGQ": {
+    "latitude": 34.528869444444446,
+    "longitude": -78.51595833333333
+  },
+  "ZOLIS": {
+    "latitude": 34.60492222222222,
+    "longitude": -78.25785833333333
+  },
+  "FONIS": {
+    "latitude": 36.93666666666666,
+    "longitude": -73.92111111111112
+  },
+  "KW39A": {
+    "latitude": 36.5,
+    "longitude": -74.0
+  },
+  "DELPP": {
+    "latitude": 36.9375,
+    "longitude": -73.50444444444445
+  }
+}
